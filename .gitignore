@@ -1,0 +1,36 @@
+# Archivos auxiliares de LaTeX
+*.aux
+*.bbl
+*.blg
+*.brf
+*.bcf
+*.idx
+*.ilg
+*.ind
+*.lof
+*.log
+*.lot
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Archivos de TexStudio y similares
+*.nav
+*.snm
+*.vrb
+
+# Archivos temporales y de respaldo
+*.bak
+*.tmp
+*.sav
+*.dvi
+
+# Archivos PDF generados automáticamente
+*.tex
+
+# Archivos de salida de compiladores
+*.ps
+*.eps
+*.xml
