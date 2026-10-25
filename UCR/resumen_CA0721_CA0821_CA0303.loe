@@ -1,0 +1,1052 @@
+\addvspace {10\p@ }
+\contentsline {proposition}{\ifthmt@listswap Proposición~1.1.1\else \numberline {1.1.1}Proposición\fi \thmtformatoptarg {El principio básico de conteo}}{3}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~1.2.1\else \numberline {1.2.1}Proposición\fi \thmtformatoptarg {Conteo de permutaciones}}{4}{proposition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~1.2.1\else \numberline {1.2.1}Teorema\fi \thmtformatoptarg {Teorema del coeficiente multinomial}}{4}{theorem.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~1.2.2\else \numberline {1.2.2}Proposición\fi \thmtformatoptarg {Permutaciones sin repetición}}{4}{proposition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~1.2.3\else \numberline {1.2.3}Proposición\fi \thmtformatoptarg {Permutaciones con repetición}}{5}{proposition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~1.3.1\else \numberline {1.3.1}Teorema\fi \thmtformatoptarg {Teorema de las estrellas y barras}}{5}{theorem.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~1.3.1\else \numberline {1.3.1}Proposición\fi \thmtformatoptarg {Principio del producto}}{5}{proposition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~1.3.2\else \numberline {1.3.2}Teorema\fi \thmtformatoptarg {Soluciones de una ecuación lineal}}{5}{theorem.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~1.3.2\else \numberline {1.3.2}Proposición\fi \thmtformatoptarg {Principio multiplicativo para selecciones independientes}}{6}{proposition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~1.3.3\else \numberline {1.3.3}Proposición\fi \thmtformatoptarg {selección no consecutiva.}}{6}{proposition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~1.4.1\else \numberline {1.4.1}Teorema\fi \thmtformatoptarg {Teorema multinomial}}{6}{theorem.1}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~2.1.1\else \numberline {2.1.1}Definición\fi \thmtformatoptarg {Anillos conjuntivos}}{8}{definition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~2.1.1\else \numberline {2.1.1}Proposición\fi \thmtformatoptarg {Intersección y unión de anillos}}{8}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~2.1.2\else \numberline {2.1.2}Proposición\fi \thmtformatoptarg {Intersección de \(\mitsigma \)-anillos}}{9}{proposition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.1.2\else \numberline {2.1.2}Definición\fi \thmtformatoptarg {Recta real extendida}}{9}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.1.3\else \numberline {2.1.3}Definición\fi \thmtformatoptarg {Unión disjunta}}{9}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.1.4\else \numberline {2.1.4}Definición\fi \thmtformatoptarg {Función aditiva}}{10}{definition.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.1.1\else \numberline {2.1.1}Teorema\fi \thmtformatoptarg {Aditividad}}{10}{theorem.1}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~2.1.1\else \numberline {2.1.1}Corolario\fi \thmtformatoptarg {Separación de la suma de una función contable aditiva}}{11}{corollary.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.1.1\else \numberline {2.1.1}Lema\fi \thmtformatoptarg {Monotonía}}{11}{lemma.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.1.5\else \numberline {2.1.5}Definición\fi \thmtformatoptarg {Medida}}{11}{definition.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.1.6\else \numberline {2.1.6}Definición\fi \thmtformatoptarg {Espacio medible}}{11}{definition.6}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.1.7\else \numberline {2.1.7}Definición\fi \thmtformatoptarg {\(\mitsigma \)-finidad}}{11}{definition.7}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.2.1\else \numberline {2.2.1}Definición\fi \thmtformatoptarg {Espacio muestral}}{12}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.2.2\else \numberline {2.2.2}Definición\fi \thmtformatoptarg {Experimento}}{12}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.2.3\else \numberline {2.2.3}Definición\fi \thmtformatoptarg {Finito, cantable o no}}{12}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.2.4\else \numberline {2.2.4}Definición\fi \thmtformatoptarg {Álgebra conjuntiva}}{12}{definition.4}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~2.2.1\else \numberline {2.2.1}Proposición\fi \thmtformatoptarg {Relación entre anillos y álgebras}}{12}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~2.2.2\else \numberline {2.2.2}Proposición\fi \thmtformatoptarg {Union, intersección y diferencia de álgebras}}{12}{proposition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~2.2.3\else \numberline {2.2.3}Proposición\fi \thmtformatoptarg {Intersección de \(\mitsigma \)-álgebras}}{13}{proposition.3}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~2.2.1\else \numberline {2.2.1}Corolario\fi \thmtformatoptarg {La más pequeña \(\mitsigma \)-álgebra \( \mitsigma (\vdot )\)}}{13}{corollary.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.2.5\else \numberline {2.2.5}Definición\fi \thmtformatoptarg {Probabilidad}}{13}{definition.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.2.6\else \numberline {2.2.6}Definición\fi \thmtformatoptarg {Espacio de probabilidad}}{13}{definition.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.2.1\else \numberline {2.2.1}Teorema\fi \thmtformatoptarg {Propiedades}}{13}{theorem.1}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~2.2.2\else \numberline {2.2.2}Corolario\fi \thmtformatoptarg {Union de probabilidades}}{14}{corollary.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.2.7\else \numberline {2.2.7}Definición\fi \thmtformatoptarg {Semialgebra}}{15}{definition.7}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.2.1\else \numberline {2.2.1}Lema\fi \thmtformatoptarg {Álgebra de semialgebra}}{15}{lemma.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.2.8\else \numberline {2.2.8}Definición\fi \thmtformatoptarg {\(\mitpi \)-sistema}}{15}{definition.8}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.2.9\else \numberline {2.2.9}Definición\fi \thmtformatoptarg {\(\mitlambda \)-sistema}}{15}{definition.9}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.2.2\else \numberline {2.2.2}Teorema\fi \thmtformatoptarg {Teorema \(\mitpi -\mitlambda \) de Dynkin}}{15}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.3.1\else \numberline {2.3.1}Teorema\fi \thmtformatoptarg {Teorema de unicidad de medidas}}{16}{theorem.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.3.1\else \numberline {2.3.1}Lema\fi \thmtformatoptarg {\(\mitsigma \)-aditividad heredada}}{16}{lemma.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.3.1\else \numberline {2.3.1}Definición\fi \thmtformatoptarg {Medida exterior de Carathéodory}}{17}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.3.2\else \numberline {2.3.2}Definición\fi \thmtformatoptarg {Medida exterior}}{17}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.3.3\else \numberline {2.3.3}Definición\fi \thmtformatoptarg {Criterio de medibilidad de Carathéodory}}{17}{definition.3}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.3.2\else \numberline {2.3.2}Lema\fi \thmtformatoptarg {Coherencia con la medida original}}{17}{lemma.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.3.2\else \numberline {2.3.2}Teorema\fi \thmtformatoptarg {Teorema de Carathéodory}}{18}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.3.3\else \numberline {2.3.3}Teorema\fi \thmtformatoptarg {Teorema de la extensión de Carathodory}}{19}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.3.4\else \numberline {2.3.4}Teorema\fi \thmtformatoptarg {Teorema de Hahn-Kolmogorov}}{19}{theorem.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.3.4\else \numberline {2.3.4}Definición\fi \thmtformatoptarg {Medida de Stieltjes}}{20}{definition.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.3.5\else \numberline {2.3.5}Definición\fi \thmtformatoptarg {Función indicadora y medida de Dirac}}{20}{definition.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.3.6\else \numberline {2.3.6}Definición\fi \thmtformatoptarg {Función simple}}{20}{definition.6}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.3.7\else \numberline {2.3.7}Definición\fi \thmtformatoptarg {Integral de una función simple}}{20}{definition.7}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.3.3\else \numberline {2.3.3}Lema\fi \thmtformatoptarg {Propiedades básicas de la integral para funciones simples}}{20}{lemma.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.3.8\else \numberline {2.3.8}Definición\fi \thmtformatoptarg {Definición de la integral de Lebesgue vía funciones simples}}{21}{definition.8}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.3.4\else \numberline {2.3.4}Lema\fi \thmtformatoptarg {propiedades elementales de la integral de Lebesgue para funciones acotadas de soporte de medida finita}}{22}{lemma.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.3.9\else \numberline {2.3.9}Definición\fi \thmtformatoptarg {Integral de f sobre el conjunto E}}{22}{definition.9}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.3.10\else \numberline {2.3.10}Definición\fi \thmtformatoptarg {Integral de Lebesgue para funciones medibles no negativas}}{22}{definition.10}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.3.5\else \numberline {2.3.5}Lema\fi \thmtformatoptarg {Aproximación por truncamiento}}{22}{lemma.5}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.3.6\else \numberline {2.3.6}Lema\fi \thmtformatoptarg {Propiedades elementales de la integral de Lebesgue.}}{23}{lemma.6}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.3.11\else \numberline {2.3.11}Definición\fi \thmtformatoptarg {Extensión de la integral de Lebesgue a funciones medibles de signo arbitrario}}{23}{definition.11}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.3.7\else \numberline {2.3.7}Lema\fi \thmtformatoptarg {Linealidad para la diferencia}}{23}{lemma.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.3.5\else \numberline {2.3.5}Teorema\fi \thmtformatoptarg {Teorema de las propiedades fundamentales de la integral de Lebesgue}}{23}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.3.6\else \numberline {2.3.6}Teorema\fi \thmtformatoptarg {Desigualdad de Jensen}}{24}{theorem.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.3.7\else \numberline {2.3.7}Teorema\fi \thmtformatoptarg {Teorema de convergencia acotada}}{24}{theorem.7}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.3.8\else \numberline {2.3.8}Lema\fi \thmtformatoptarg {Lema de Fatou}}{25}{lemma.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.3.8\else \numberline {2.3.8}Teorema\fi \thmtformatoptarg {Teorema de convergencia monotona}}{26}{theorem.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.3.9\else \numberline {2.3.9}Teorema\fi \thmtformatoptarg {Teorema de convergencia dominada}}{26}{theorem.9}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.3.10\else \numberline {2.3.10}Teorema\fi \thmtformatoptarg {Teorema Riemann-Lebesgue}}{26}{theorem.10}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.3.12\else \numberline {2.3.12}Definición\fi \thmtformatoptarg {Espacio de medida producto}}{27}{definition.12}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.3.13\else \numberline {2.3.13}Definición\fi \thmtformatoptarg {Medida producto}}{27}{definition.13}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.3.11\else \numberline {2.3.11}Teorema\fi \thmtformatoptarg {Teorema de la medida producto}}{27}{theorem.11}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.3.9\else \numberline {2.3.9}Lema\fi \thmtformatoptarg {Lema de las secciones medibles}}{28}{lemma.9}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.3.10\else \numberline {2.3.10}Lema\fi \thmtformatoptarg {Lema de Tonelli para funciones indicadoras}}{28}{lemma.10}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.3.12\else \numberline {2.3.12}Teorema\fi \thmtformatoptarg {Teorema de Fubini-Tonelli}}{29}{theorem.12}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.4.1\else \numberline {2.4.1}Definición\fi \thmtformatoptarg {Espacio \(L^p(\mitmu )\)}}{29}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.4.2\else \numberline {2.4.2}Definición\fi \thmtformatoptarg {Exponente conjugado}}{30}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.1\else \numberline {2.4.1}Teorema\fi \thmtformatoptarg {Desigualdad de Hölder}}{30}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.2\else \numberline {2.4.2}Teorema\fi \thmtformatoptarg {Desigualdad de Minkowski}}{30}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.3\else \numberline {2.4.3}Teorema\fi \thmtformatoptarg {Relación entre espacios \(L^p\) en medida finita}}{31}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.4.3\else \numberline {2.4.3}Definición\fi \thmtformatoptarg {Espacio métrico completo}}{31}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.4.4\else \numberline {2.4.4}Definición\fi \thmtformatoptarg {Espacio de Banach}}{31}{definition.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.4\else \numberline {2.4.4}Teorema\fi \thmtformatoptarg {Riesz-Fischer}}{31}{theorem.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.4.5\else \numberline {2.4.5}Definición\fi \thmtformatoptarg {Conjunto denso}}{31}{definition.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.5\else \numberline {2.4.5}Teorema\fi \thmtformatoptarg {Densidad de funciones simples en \(L^p\)}}{32}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.6\else \numberline {2.4.6}Teorema\fi \thmtformatoptarg {Densidad de \(C_c\) en \(L^p\)}}{32}{theorem.6}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.4.6\else \numberline {2.4.6}Definición\fi \thmtformatoptarg {Producto interno en \(L^2\)}}{32}{definition.6}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.4.7\else \numberline {2.4.7}Definición\fi \thmtformatoptarg {Espacio de Hilbert}}{32}{definition.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.7\else \numberline {2.4.7}Teorema\fi \thmtformatoptarg {\(L^2(\mitmu )\) es un espacio de Hilbert}}{32}{theorem.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.8\else \numberline {2.4.8}Teorema\fi \thmtformatoptarg {Identidad de Parseval}}{32}{theorem.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.9\else \numberline {2.4.9}Teorema\fi \thmtformatoptarg {Proyección ortogonal}}{32}{theorem.9}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.4.8\else \numberline {2.4.8}Definición\fi \thmtformatoptarg {Funcional lineal acotado y dual}}{33}{definition.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.10\else \numberline {2.4.10}Teorema\fi \thmtformatoptarg {Dualidad de \(L^p\)}}{33}{theorem.10}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.11\else \numberline {2.4.11}Teorema\fi \thmtformatoptarg {Dualidad de \(L^1\)}}{33}{theorem.11}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.12\else \numberline {2.4.12}Teorema\fi \thmtformatoptarg {Convergencia en \(L^p\) implica convergencia en medida}}{33}{theorem.12}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.13\else \numberline {2.4.13}Teorema\fi \thmtformatoptarg {Criterio de uniformemente integrabilidad en \(L^1\)}}{33}{theorem.13}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.4.9\else \numberline {2.4.9}Definición\fi \thmtformatoptarg {Medida signada}}{33}{definition.9}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.4.10\else \numberline {2.4.10}Definición\fi \thmtformatoptarg {Conjuntos positivos y negativos respecto de una medida signada}}{34}{definition.10}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.4.1\else \numberline {2.4.1}Lema\fi \thmtformatoptarg {Herencia y unión contable de conjuntos positivos}}{34}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.4.2\else \numberline {2.4.2}Lema\fi \thmtformatoptarg {Existencia de un subconjunto negativo}}{34}{lemma.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.14\else \numberline {2.4.14}Teorema\fi \thmtformatoptarg {Descomposicion de Hahn}}{34}{theorem.14}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.4.11\else \numberline {2.4.11}Definición\fi \thmtformatoptarg {Medidas mutuamente singulares}}{35}{definition.11}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.15\else \numberline {2.4.15}Teorema\fi \thmtformatoptarg {Descomposicion de Jordan}}{35}{theorem.15}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.4.12\else \numberline {2.4.12}Definición\fi \thmtformatoptarg {Absoluta continuidad}}{35}{definition.12}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.16\else \numberline {2.4.16}Teorema\fi \thmtformatoptarg {Descomposición de Lebesgue}}{35}{theorem.16}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.4.13\else \numberline {2.4.13}Definición\fi \thmtformatoptarg {Completitud de la medida}}{36}{definition.13}%
+\contentsline {lemma}{\ifthmt@listswap Lema~2.4.3\else \numberline {2.4.3}Lema\fi \thmtformatoptarg {Extensión de la $\mitsigma $–álgebra}}{36}{lemma.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.17\else \numberline {2.4.17}Teorema\fi \thmtformatoptarg {Completitud de la extensión}}{37}{theorem.17}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.4.18\else \numberline {2.4.18}Teorema\fi \thmtformatoptarg {Radon-Nikodym}}{37}{theorem.18}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.5.1\else \numberline {2.5.1}Definición\fi \thmtformatoptarg {Distribución de probabilidad en un espacio contable}}{37}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.5.2\else \numberline {2.5.2}Definición\fi \thmtformatoptarg {Probabilidad geométrica}}{37}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.5.3\else \numberline {2.5.3}Definición\fi \thmtformatoptarg {Probabilidad de Laplace}}{38}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.6.1\else \numberline {2.6.1}Definición\fi \thmtformatoptarg {Probabilidad condicional}}{38}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.6.1\else \numberline {2.6.1}Teorema\fi \thmtformatoptarg {Teorema fundamental de la probabilidad condicional}}{38}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.6.2\else \numberline {2.6.2}Teorema\fi \thmtformatoptarg {Teorema de probabilidad total}}{39}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~2.6.3\else \numberline {2.6.3}Teorema\fi \thmtformatoptarg {Teorema de Bayes}}{39}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.7.1\else \numberline {2.7.1}Definición\fi \thmtformatoptarg {Independencia de eventos}}{39}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~2.7.2\else \numberline {2.7.2}Definición\fi \thmtformatoptarg {Familias independientes}}{39}{definition.2}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~3.1.1\else \numberline {3.1.1}Definición\fi \thmtformatoptarg {Función medible}}{41}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.1.1\else \numberline {3.1.1}Teorema\fi \thmtformatoptarg {Teorema de la medibilidad por generador}}{41}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.1.2\else \numberline {3.1.2}Teorema\fi \thmtformatoptarg {Teorema de la composición de funciones medibles}}{41}{theorem.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.1.2\else \numberline {3.1.2}Definición\fi \thmtformatoptarg {\(\mitsigma \)-álgebra de Borel}}{42}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.1.3\else \numberline {3.1.3}Teorema\fi \thmtformatoptarg {Caracterización de la \(\mitsigma \)-álgebra de Borel}}{42}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.2.1\else \numberline {3.2.1}Definición\fi \thmtformatoptarg {Variable aleatoria}}{42}{definition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~3.2.1\else \numberline {3.2.1}Proposición\fi \thmtformatoptarg {Equivalente de variable aleatoria}}{42}{proposition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.2.1\else \numberline {3.2.1}Teorema\fi \thmtformatoptarg {Operaciones algebraicas con variables aleatorias}}{43}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.2.2\else \numberline {3.2.2}Teorema\fi \thmtformatoptarg {Máximo y mínimo de variables aleatorias}}{44}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.2.3\else \numberline {3.2.3}Teorema\fi \thmtformatoptarg {Composición de variables aleatorias}}{44}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.2.2\else \numberline {3.2.2}Definición\fi \thmtformatoptarg {\(\mitsigma \)-álgebra generada por una variable aleatoria}}{44}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.3.1\else \numberline {3.3.1}Definición\fi \thmtformatoptarg {Distribución inducida por una variable aleatoria}}{45}{definition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~3.3.1\else \numberline {3.3.1}Proposición\fi \thmtformatoptarg {La distribución inducida por una variable aleatoria es una medida de probabilidad}}{45}{proposition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.3.2\else \numberline {3.3.2}Definición\fi \thmtformatoptarg {Función de distribución acumulada}}{45}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.3.1\else \numberline {3.3.1}Teorema\fi \thmtformatoptarg {Propiedades de la función de distribución acumulada}}{45}{theorem.1}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~3.3.1\else \numberline {3.3.1}Corolario\fi \thmtformatoptarg {Cálculo de probabilidades mediante la función de distribución acumulada}}{46}{corollary.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.3.3\else \numberline {3.3.3}Definición\fi \thmtformatoptarg {Salto de la función de distribución acumulada}}{47}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.3.4\else \numberline {3.3.4}Definición\fi \thmtformatoptarg {Función de Stieltjes}}{47}{definition.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.3.2\else \numberline {3.3.2}Teorema\fi \thmtformatoptarg {Teorema de Stieltjes}}{47}{theorem.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.3.5\else \numberline {3.3.5}Definición\fi \thmtformatoptarg {Función de distribución en \(\symbb {R}^d\)}}{48}{definition.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.3.3\else \numberline {3.3.3}Teorema\fi \thmtformatoptarg {Teorema de Stieltjes en \(\symbb {R}^d\)}}{48}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.3.4\else \numberline {3.3.4}Teorema\fi \thmtformatoptarg {Correspondencia biyectiva entre funciones de distribución y medidas de probabilidad en \(\symbb {R}\)}}{48}{theorem.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.4.1\else \numberline {3.4.1}Definición\fi \thmtformatoptarg {Variable aleatoria continua}}{49}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.4.2\else \numberline {3.4.2}Definición\fi \thmtformatoptarg {Igualdad en distribución}}{49}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.4.3\else \numberline {3.4.3}Definición\fi \thmtformatoptarg {Variable aleatoria absolutamente continua}}{49}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.4.1\else \numberline {3.4.1}Teorema\fi \thmtformatoptarg {Variable aleatoria absolutamente continua}}{49}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.4.2\else \numberline {3.4.2}Teorema\fi \thmtformatoptarg {Transformación de densidades}}{49}{theorem.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.4.4\else \numberline {3.4.4}Definición\fi \thmtformatoptarg {Variable aleatoria discreta}}{50}{definition.4}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~3.4.1\else \numberline {3.4.1}Proposición\fi }{50}{proposition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.5.1\else \numberline {3.5.1}Definición\fi \thmtformatoptarg {Esperanza}}{50}{definition.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~3.5.1\else \numberline {3.5.1}Lema\fi \thmtformatoptarg {Esperanza en \(\symbb {R}\)}}{50}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~3.5.2\else \numberline {3.5.2}Lema\fi }{50}{lemma.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~3.5.3\else \numberline {3.5.3}Lema\fi \thmtformatoptarg {Fórmula de Fubini para la esperanza}}{51}{lemma.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.5.1\else \numberline {3.5.1}Teorema\fi \thmtformatoptarg {LOTUS para la esperanza}}{51}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.5.2\else \numberline {3.5.2}Definición\fi \thmtformatoptarg {Momento de orden r}}{52}{definition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~3.5.1\else \numberline {3.5.1}Proposición\fi \thmtformatoptarg {Linealidad de la esperanza}}{52}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~3.5.2\else \numberline {3.5.2}Proposición\fi \thmtformatoptarg {Desigualdad de Hölder para esperanzas}}{53}{proposition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~3.5.3\else \numberline {3.5.3}Proposición\fi \thmtformatoptarg {Desigualdad de Markov}}{53}{proposition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.6.1\else \numberline {3.6.1}Definición\fi \thmtformatoptarg {Media, varianza y momentos}}{53}{definition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~3.6.1\else \numberline {3.6.1}Proposición\fi \thmtformatoptarg {Relación entre momentos centrados y momentos ordinarios}}{53}{proposition.1}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~3.6.1\else \numberline {3.6.1}Corolario\fi \thmtformatoptarg {Fórmula de la varianza}}{54}{corollary.1}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~3.6.2\else \numberline {3.6.2}Corolario\fi \thmtformatoptarg {Propiedades fundamentales de la varianza}}{54}{corollary.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.7.1\else \numberline {3.7.1}Definición\fi \thmtformatoptarg {Función generadora de momentos}}{54}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.7.1\else \numberline {3.7.1}Teorema\fi \thmtformatoptarg {Teorema fundamental de la función generadora de momentos}}{54}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.7.2\else \numberline {3.7.2}Teorema\fi \thmtformatoptarg {Colas exponenciales de la función generadora de momentos}}{55}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.7.3\else \numberline {3.7.3}Teorema\fi \thmtformatoptarg {Teorema de unicidad de la función generadora de momentos}}{55}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~3.8.1\else \numberline {3.8.1}Definición\fi \thmtformatoptarg {Función característica}}{56}{definition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~3.8.1\else \numberline {3.8.1}Proposición\fi \thmtformatoptarg {Propiedades básicas de la función característica}}{56}{proposition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.8.1\else \numberline {3.8.1}Teorema\fi \thmtformatoptarg {Fórmula de inversión de Lévy}}{56}{theorem.1}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~3.8.1\else \numberline {3.8.1}Corolario\fi \thmtformatoptarg {Unicidad de la función característica}}{58}{corollary.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.8.2\else \numberline {3.8.2}Teorema\fi \thmtformatoptarg {Diferenciación de la función característica}}{58}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~3.8.3\else \numberline {3.8.3}Teorema\fi \thmtformatoptarg {Fórmula de inversión de Fourier para la densidad}}{59}{theorem.3}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~4.0.1\else \numberline {4.0.1}Definición\fi \thmtformatoptarg {Variable aleatoria en varias variables}}{60}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.0.2\else \numberline {4.0.2}Definición\fi \thmtformatoptarg {Función de distribución conjunta}}{60}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.0.1\else \numberline {4.0.1}Teorema\fi \thmtformatoptarg {Propiedades básicas de la función de distribución conjunta}}{60}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.0.3\else \numberline {4.0.3}Definición\fi \thmtformatoptarg {Función de distribución marginal}}{61}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.0.2\else \numberline {4.0.2}Teorema\fi \thmtformatoptarg {Teorema de las marginales}}{61}{theorem.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~4.0.1\else \numberline {4.0.1}Proposición\fi \thmtformatoptarg {Función de masa de probabilidad conjunta}}{62}{proposition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.0.3\else \numberline {4.0.3}Teorema\fi \thmtformatoptarg {Distribución inducida}}{62}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.0.4\else \numberline {4.0.4}Definición\fi \thmtformatoptarg {Función de densidad conjunta}}{62}{definition.4}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~4.0.2\else \numberline {4.0.2}Proposición\fi \thmtformatoptarg {LOTUS multivariable}}{63}{proposition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.1.1\else \numberline {4.1.1}Definición\fi \thmtformatoptarg {Esperanza de un vector aleatorio}}{63}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.1.1\else \numberline {4.1.1}Teorema\fi \thmtformatoptarg {LOTUS para esperanza multivariable}}{63}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.1.2\else \numberline {4.1.2}Teorema\fi \thmtformatoptarg {Teorema del Jacobiano}}{64}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.1.3\else \numberline {4.1.3}Teorema\fi \thmtformatoptarg {Teorema del cambio de variable}}{64}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.2.1\else \numberline {4.2.1}Definición\fi \thmtformatoptarg {Covarianza}}{65}{definition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~4.2.1\else \numberline {4.2.1}Proposición\fi \thmtformatoptarg {Propiedades fundamentales de la covarianza}}{65}{proposition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.2.2\else \numberline {4.2.2}Definición\fi \thmtformatoptarg {Correlación}}{65}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.2.1\else \numberline {4.2.1}Teorema\fi \thmtformatoptarg {Propiedades fundamentales del coeficiente de correlación lineal}}{65}{theorem.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~4.2.2\else \numberline {4.2.2}Proposición\fi \thmtformatoptarg {Fórmula de la varianza de una suma}}{66}{proposition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.2.3\else \numberline {4.2.3}Definición\fi \thmtformatoptarg {Matriz de covarianza}}{66}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.3.1\else \numberline {4.3.1}Definición\fi \thmtformatoptarg {Independencia de vectores aleatorios}}{66}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.3.1\else \numberline {4.3.1}Teorema\fi \thmtformatoptarg {Independencia mediante la función de distribución conjunta}}{66}{theorem.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~4.3.1\else \numberline {4.3.1}Proposición\fi \thmtformatoptarg {Independencia mediante factorización de la distribución conjunta}}{67}{proposition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.3.2\else \numberline {4.3.2}Teorema\fi \thmtformatoptarg {Preservación de independencia por funciones medibles}}{67}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.3.3\else \numberline {4.3.3}Teorema\fi \thmtformatoptarg {Factorización de la esperanza bajo independencia}}{67}{theorem.3}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~4.3.1\else \numberline {4.3.1}Corolario\fi \thmtformatoptarg {Independencia implica incorrelación}}{67}{corollary.1}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~4.3.2\else \numberline {4.3.2}Corolario\fi \thmtformatoptarg {Varianza aditiva bajo independencia}}{67}{corollary.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.3.2\else \numberline {4.3.2}Definición\fi \thmtformatoptarg {Función generadora de momentos multivariable}}{67}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.3.4\else \numberline {4.3.4}Teorema\fi \thmtformatoptarg {Factorización de la función generadora de momentos bajo independencia}}{68}{theorem.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.3.3\else \numberline {4.3.3}Definición\fi \thmtformatoptarg {Función características multivariable}}{68}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.3.5\else \numberline {4.3.5}Teorema\fi \thmtformatoptarg {Factorización de la función característica bajo independencia}}{68}{theorem.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.3.4\else \numberline {4.3.4}Definición\fi \thmtformatoptarg {Distribución acumulada condicional}}{68}{definition.4}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~4.3.2\else \numberline {4.3.2}Proposición\fi \thmtformatoptarg {Densidad condicional}}{68}{proposition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~4.3.3\else \numberline {4.3.3}Proposición\fi \thmtformatoptarg {Función de masa condicional}}{68}{proposition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.3.6\else \numberline {4.3.6}Teorema\fi \thmtformatoptarg {Regla de Bayes para mezclas discreto–continuas}}{69}{theorem.6}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.4.1\else \numberline {4.4.1}Definición\fi \thmtformatoptarg {Esperanza condicional}}{69}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.4.2\else \numberline {4.4.2}Definición\fi \thmtformatoptarg {Distribución condicional regular}}{70}{definition.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~4.4.1\else \numberline {4.4.1}Lema\fi \thmtformatoptarg {Unicidad casi segura}}{70}{lemma.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.4.1\else \numberline {4.4.1}Teorema\fi \thmtformatoptarg {Existencia de la esperanza condicional}}{70}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.4.2\else \numberline {4.4.2}Teorema\fi \thmtformatoptarg {Propiedades de la esperanza condicional}}{70}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.4.3\else \numberline {4.4.3}Teorema\fi \thmtformatoptarg {Contracción en \(L^p\) y proyección ortogonal en \(L^2\)}}{71}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.4.4\else \numberline {4.4.4}Teorema\fi \thmtformatoptarg {LOTUS condicional}}{71}{theorem.4}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~4.4.1\else \numberline {4.4.1}Proposición\fi \thmtformatoptarg {Varianza condicional}}{71}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~4.4.2\else \numberline {4.4.2}Proposición\fi \thmtformatoptarg {Ley de la varianza total}}{71}{proposition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.4.5\else \numberline {4.4.5}Teorema\fi \thmtformatoptarg {Factorización condicional bajo independencia y extracción funciones}}{71}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.4.6\else \numberline {4.4.6}Teorema\fi \thmtformatoptarg {Fórmula de convolución}}{71}{theorem.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.4.7\else \numberline {4.4.7}Teorema\fi \thmtformatoptarg {Convolución de densidades}}{72}{theorem.7}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.5.1\else \numberline {4.5.1}Definición\fi \thmtformatoptarg {Convergencia casi segura}}{72}{definition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~4.5.1\else \numberline {4.5.1}Proposición\fi \thmtformatoptarg {Caracterización probabilística de la convergencia casi segura}}{72}{proposition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.5.2\else \numberline {4.5.2}Definición\fi \thmtformatoptarg {Convergencia en \(L^p\)}}{73}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.5.3\else \numberline {4.5.3}Definición\fi \thmtformatoptarg {Convergencia en distribución}}{73}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~4.5.4\else \numberline {4.5.4}Definición\fi \thmtformatoptarg {Convergencia en probabilidad}}{73}{definition.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.5.1\else \numberline {4.5.1}Teorema\fi \thmtformatoptarg {Cadena de implicaciones de convergencia}}{73}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.5.2\else \numberline {4.5.2}Teorema\fi \thmtformatoptarg {Convergencia dominada}}{74}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.5.3\else \numberline {4.5.3}Teorema\fi \thmtformatoptarg {Convergencia monótona}}{74}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.5.4\else \numberline {4.5.4}Teorema\fi \thmtformatoptarg {Teorema de Helly-Bray}}{74}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.5.5\else \numberline {4.5.5}Teorema\fi \thmtformatoptarg {Continuidad de Lévy y Cramér}}{75}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~4.5.6\else \numberline {4.5.6}Teorema\fi \thmtformatoptarg {Desigualdad de Chebyshev}}{75}{theorem.6}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~5.0.1\else \numberline {5.0.1}Definición\fi \thmtformatoptarg {Variables no correlacionadas}}{77}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.0.1\else \numberline {5.0.1}Teorema\fi \thmtformatoptarg {Varianza no correlacionada}}{77}{theorem.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~5.0.1\else \numberline {5.0.1}Lema\fi \thmtformatoptarg {Convergencia en probabilidad vía momentos}}{77}{lemma.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.0.2\else \numberline {5.0.2}Teorema\fi \thmtformatoptarg {Ley débil en \( L^2 \)}}{78}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.0.3\else \numberline {5.0.3}Teorema\fi \thmtformatoptarg {Ley débil por control de varianza}}{78}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~5.0.2\else \numberline {5.0.2}Definición\fi \thmtformatoptarg {Variable indicadora de ciclos en la descomposición}}{78}{definition.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~5.0.2\else \numberline {5.0.2}Lema\fi \thmtformatoptarg {Esperanza del conteo de ciclos vía indicadores}}{78}{lemma.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~5.0.3\else \numberline {5.0.3}Definición\fi \thmtformatoptarg {Truncamiento}}{79}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.0.4\else \numberline {5.0.4}Teorema\fi \thmtformatoptarg {Teorema de Bienaymé–Chebyshev, versión débil tipo Lindeberg}}{79}{theorem.4}%
+\contentsline {lemma}{\ifthmt@listswap Lema~5.0.3\else \numberline {5.0.3}Lema\fi \thmtformatoptarg {Fórmula de integración por partes para momentos}}{80}{lemma.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.0.5\else \numberline {5.0.5}Teorema\fi \thmtformatoptarg {Ley de los Grandes Números con truncamiento para colas ligeras}}{80}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.1\else \numberline {5.1.1}Teorema\fi \thmtformatoptarg {Primer lema de Borel-Cantelli}}{81}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.2\else \numberline {5.1.2}Teorema\fi \thmtformatoptarg {Caracterización de convergencia en probabilidad}}{81}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.3\else \numberline {5.1.3}Teorema\fi \thmtformatoptarg {Criterio secuencial de convergencia}}{83}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.4\else \numberline {5.1.4}Teorema\fi \thmtformatoptarg {Ley débil de los grandes números}}{83}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.5\else \numberline {5.1.5}Teorema\fi \thmtformatoptarg {Teorema de continuidad de la convergencia en probabilidad}}{84}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.6\else \numberline {5.1.6}Teorema\fi \thmtformatoptarg {Ley Fuerte de los Grandes Números con cuarto momento finito}}{84}{theorem.6}%
+\contentsline {lemma}{\ifthmt@listswap Lema~5.1.1\else \numberline {5.1.1}Lema\fi \thmtformatoptarg {Segundo lema de Borel-Cantelli}}{85}{lemma.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.7\else \numberline {5.1.7}Teorema\fi \thmtformatoptarg {Divergencia del promedio para medias infinitas}}{85}{theorem.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.8\else \numberline {5.1.8}Teorema\fi \thmtformatoptarg {Convergencia casi segura de sucesiones no convergentes}}{85}{theorem.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.9\else \numberline {5.1.9}Teorema\fi \thmtformatoptarg {Ley de los récords}}{85}{theorem.9}%
+\contentsline {lemma}{\ifthmt@listswap Lema~5.1.2\else \numberline {5.1.2}Lema\fi \thmtformatoptarg {Lema de Kochen-Stone}}{86}{lemma.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~5.1.3\else \numberline {5.1.3}Lema\fi \thmtformatoptarg {Truncación para la Ley Fuerte de los Grandes Números}}{86}{lemma.3}%
+\contentsline {lemma}{\ifthmt@listswap Lema~5.1.4\else \numberline {5.1.4}Lema\fi \thmtformatoptarg {Cota de varianza tipo Kolmogórov para variables truncadas}}{86}{lemma.4}%
+\contentsline {lemma}{\ifthmt@listswap Lema~5.1.5\else \numberline {5.1.5}Lema\fi \thmtformatoptarg {Desigualdad elemental para series tipo p–serie}}{86}{lemma.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.10\else \numberline {5.1.10}Teorema\fi \thmtformatoptarg {Ley Fuerte de los Grandes Números para medias unilaterales infinitas}}{86}{theorem.10}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.11\else \numberline {5.1.11}Teorema\fi \thmtformatoptarg {Ley Fuerte de los Tiempos de Espera}}{86}{theorem.11}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.12\else \numberline {5.1.12}Teorema\fi \thmtformatoptarg {Teorema de Glivenko-Cantelli}}{86}{theorem.12}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.13\else \numberline {5.1.13}Teorema\fi \thmtformatoptarg {Desigualdad máxima de Kolmogorov}}{87}{theorem.13}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.14\else \numberline {5.1.14}Teorema\fi \thmtformatoptarg {Convergencia casi segura de series independientes}}{87}{theorem.14}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.15\else \numberline {5.1.15}Teorema\fi \thmtformatoptarg {Teorema de las tres series de Kolmogorov}}{87}{theorem.15}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.16\else \numberline {5.1.16}Teorema\fi \thmtformatoptarg {Lema de Kronecker}}{87}{theorem.16}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.17\else \numberline {5.1.17}Teorema\fi \thmtformatoptarg {Ley fuerte de los grandes números}}{88}{theorem.17}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.18\else \numberline {5.1.18}Teorema\fi \thmtformatoptarg {Ley del Límite Superior}}{88}{theorem.18}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.19\else \numberline {5.1.19}Teorema\fi \thmtformatoptarg {Ley Fuerte de los Grandes Números para momentos fraccionarios}}{88}{theorem.19}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.1.20\else \numberline {5.1.20}Teorema\fi \thmtformatoptarg {Teorema de Kolmogórov para sumas de variables i.i.d. con media infinita}}{88}{theorem.20}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.2.1\else \numberline {5.2.1}Teorema\fi \thmtformatoptarg {Ley Fuerte de los Tiempos de Renovación}}{88}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.2.2\else \numberline {5.2.2}Teorema\fi \thmtformatoptarg {Ecuación de Wald}}{89}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.2.3\else \numberline {5.2.3}Teorema\fi \thmtformatoptarg {Ley Fuerte de los Tiempos de Renovación es el nombre estándar}}{89}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.2.4\else \numberline {5.2.4}Teorema\fi \thmtformatoptarg {Teorema de renovación de Blackwell}}{89}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.2.5\else \numberline {5.2.5}Teorema\fi \thmtformatoptarg {Teorema de existencia y unicidad de la ecuación de renovación}}{89}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.2.6\else \numberline {5.2.6}Teorema\fi \thmtformatoptarg {Teorema de renovación}}{89}{theorem.6}%
+\contentsline {lemma}{\ifthmt@listswap Lema~5.2.1\else \numberline {5.2.1}Lema\fi \thmtformatoptarg {Integrabilidad directa para funciones decrecientes no negativas}}{89}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~5.3.1\else \numberline {5.3.1}Lema\fi \thmtformatoptarg {Subaditividad de Cramér para grandes desviaciones}}{90}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~5.3.2\else \numberline {5.3.2}Lema\fi \thmtformatoptarg {Lema de Cramér sobre crecimiento exponencial de la función generadora de momentos}}{90}{lemma.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.3.1\else \numberline {5.3.1}Teorema\fi \thmtformatoptarg {Teorema de grandes desviaciones de Cramér}}{90}{theorem.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~5.3.3\else \numberline {5.3.3}Lema\fi \thmtformatoptarg {Lema de cambio de medida exponencial}}{90}{lemma.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.3.2\else \numberline {5.3.2}Teorema\fi \thmtformatoptarg {Teorema de límite de la razón de momentos}}{90}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~5.3.3\else \numberline {5.3.3}Teorema\fi \thmtformatoptarg {Teorema de cola pesada límite lineal}}{91}{theorem.3}%
+\addvspace {10\p@ }
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.0.1\else \numberline {6.0.1}Teorema\fi \thmtformatoptarg {Teorema de De Moivre-Laplace}}{92}{theorem.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.0.1\else \numberline {6.0.1}Lema\fi \thmtformatoptarg {Lema de límite exponencial}}{92}{lemma.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.0.2\else \numberline {6.0.2}Teorema\fi \thmtformatoptarg {Teorema de aproximación de De Moivre–Laplace}}{92}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.0.3\else \numberline {6.0.3}Teorema\fi \thmtformatoptarg {El otro Teorema de De Moivre-Laplace}}{93}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.1\else \numberline {6.1.1}Teorema\fi \thmtformatoptarg {Teorema de convergencia de medidas por convergencia puntual de densidades}}{93}{theorem.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.1.1\else \numberline {6.1.1}Lema\fi \thmtformatoptarg {Lemma sobre la densidad de \(V_{n+1}\)}}{93}{lemma.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.2\else \numberline {6.1.2}Teorema\fi \thmtformatoptarg {Teorema de Skorokhod}}{93}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.3\else \numberline {6.1.3}Teorema\fi \thmtformatoptarg {Teorema de la convergencia débil}}{94}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.4\else \numberline {6.1.4}Teorema\fi \thmtformatoptarg {Teorema del mapeo continuo}}{94}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.5\else \numberline {6.1.5}Teorema\fi \thmtformatoptarg {Teorema de Portmanteau}}{94}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.6\else \numberline {6.1.6}Teorema\fi \thmtformatoptarg {Teorema de selección de Helly}}{94}{theorem.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.7\else \numberline {6.1.7}Teorema\fi \thmtformatoptarg {Teorema de Tightness para sucesiones de distribuciones}}{94}{theorem.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.8\else \numberline {6.1.8}Teorema\fi \thmtformatoptarg {Criterio de Prokhorov para tightness}}{94}{theorem.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.9\else \numberline {6.1.9}Teorema\fi \thmtformatoptarg {Teorema de subsecuencias límites para convergencia en distribución}}{95}{theorem.9}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.10\else \numberline {6.1.10}Teorema\fi \thmtformatoptarg {Teorema de continuidad}}{95}{theorem.10}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.1.2\else \numberline {6.1.2}Lema\fi \thmtformatoptarg {Aproximación de la exponencial compleja mediante su serie de Taylor}}{95}{lemma.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.11\else \numberline {6.1.11}Teorema\fi \thmtformatoptarg {Diferenciabilidad de la función característica}}{95}{theorem.11}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.12\else \numberline {6.1.12}Teorema\fi \thmtformatoptarg {Desarrollo de Taylor de la función característica}}{95}{theorem.12}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.13\else \numberline {6.1.13}Teorema\fi \thmtformatoptarg {Condición de concavidad limitada para la función característica}}{95}{theorem.13}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.14\else \numberline {6.1.14}Teorema\fi \thmtformatoptarg {Criterio de Pólya}}{96}{theorem.14}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.15\else \numberline {6.1.15}Teorema\fi \thmtformatoptarg {Unicidad en el problema de momentos}}{96}{theorem.15}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.16\else \numberline {6.1.16}Teorema\fi \thmtformatoptarg {Teorema de continuidad de momentos}}{96}{theorem.16}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.17\else \numberline {6.1.17}Teorema\fi \thmtformatoptarg {Teorema de Lindeberg-Lévy}}{96}{theorem.17}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.18\else \numberline {6.1.18}Teorema\fi \thmtformatoptarg {Teorema de límite exponencial}}{96}{theorem.18}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.1.3\else \numberline {6.1.3}Lema\fi \thmtformatoptarg {Diferencias de productos}}{96}{lemma.3}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.1.4\else \numberline {6.1.4}Lema\fi \thmtformatoptarg {Aproximación exponencial}}{97}{lemma.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.19\else \numberline {6.1.19}Teorema\fi \thmtformatoptarg {Teorema de Lindeberg-Feller}}{97}{theorem.19}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.20\else \numberline {6.1.20}Teorema\fi \thmtformatoptarg {Teorema de Gnedenko-Kolmogorov}}{97}{theorem.20}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.1.5\else \numberline {6.1.5}Lema\fi \thmtformatoptarg {Lemma de selección diagona}}{97}{lemma.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.21\else \numberline {6.1.21}Teorema\fi \thmtformatoptarg {Teorema central de Erdős-Kac}}{97}{theorem.21}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.1.22\else \numberline {6.1.22}Teorema\fi \thmtformatoptarg {Teorema de Berry-Esseen}}{98}{theorem.22}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.1.6\else \numberline {6.1.6}Lema\fi \thmtformatoptarg {Lema de Esseen}}{98}{lemma.6}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.1.7\else \numberline {6.1.7}Lema\fi \thmtformatoptarg {Lema de Fourier de Lévy}}{98}{lemma.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.2.1\else \numberline {6.2.1}Teorema\fi \thmtformatoptarg {Teorema central del límite}}{98}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.2.2\else \numberline {6.2.2}Teorema\fi \thmtformatoptarg {Teorema de Lévy sobre la estructura de la función característica}}{98}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.2.3\else \numberline {6.2.3}Teorema\fi \thmtformatoptarg {Teorema Local del Límite Central}}{99}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.2.4\else \numberline {6.2.4}Teorema\fi \thmtformatoptarg {Teorema Puntual del Límite Central}}{99}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.3.1\else \numberline {6.3.1}Teorema\fi \thmtformatoptarg {Teorema de Poisson límite}}{99}{theorem.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.3.1\else \numberline {6.3.1}Lema\fi \thmtformatoptarg {Lema de convergencia en variación}}{99}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.3.2\else \numberline {6.3.2}Lema\fi \thmtformatoptarg {Lema de subaditividad de la norma de variación total para medidas producto}}{99}{lemma.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.3.3\else \numberline {6.3.3}Lema\fi \thmtformatoptarg {Lema de contracción de la convolución en variación total}}{99}{lemma.3}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.3.4\else \numberline {6.3.4}Lema\fi \thmtformatoptarg {Lema de Poisson-Binomial para una sola variable}}{100}{lemma.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.3.2\else \numberline {6.3.2}Teorema\fi \thmtformatoptarg {Teorema de Poisson en el problema de las cajas y bolas}}{100}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.3.3\else \numberline {6.3.3}Teorema\fi \thmtformatoptarg {Teorema de Poisson extendido}}{100}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.3.4\else \numberline {6.3.4}Teorema\fi \thmtformatoptarg {Teorema de Poisson para procesos de cuenta}}{100}{theorem.4}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.4.1\else \numberline {6.4.1}Lema\fi \thmtformatoptarg {Lema de la diagonal de Cantor}}{100}{lemma.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.4.1\else \numberline {6.4.1}Teorema\fi \thmtformatoptarg {Teorema de Gnedenko-Kolmogorov sobre la convergencia a distribuciones estables}}{101}{theorem.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~6.4.2\else \numberline {6.4.2}Lema\fi \thmtformatoptarg {Lema de Potter}}{101}{lemma.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.4.2\else \numberline {6.4.2}Teorema\fi \thmtformatoptarg {Teorema de Gnedenko}}{101}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.4.3\else \numberline {6.4.3}Teorema\fi \thmtformatoptarg {Teorema de convergencia de tipos}}{101}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.5.1\else \numberline {6.5.1}Teorema\fi \thmtformatoptarg {Teorema de Lévy sobre la divisibilidad infinita}}{102}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.5.2\else \numberline {6.5.2}Teorema\fi \thmtformatoptarg {Teorema de Lévy-Khinchin}}{102}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.5.3\else \numberline {6.5.3}Teorema\fi \thmtformatoptarg {Teorema de Kolmogórov}}{102}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.6.1\else \numberline {6.6.1}Teorema\fi \thmtformatoptarg {Teorema limite en \(\symbb {R}\)}}{103}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.6.2\else \numberline {6.6.2}Teorema\fi \thmtformatoptarg {Teorema de Prokhorov en dimensión d}}{103}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.6.3\else \numberline {6.6.3}Teorema\fi \thmtformatoptarg {Teorema de Prokhorov}}{103}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.6.4\else \numberline {6.6.4}Teorema\fi \thmtformatoptarg {Fórmula de inversión}}{103}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.6.5\else \numberline {6.6.5}Teorema\fi \thmtformatoptarg {Teorema de continuidad de las funciones características}}{103}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.6.6\else \numberline {6.6.6}Teorema\fi \thmtformatoptarg {Dispositivo de Cramér-Wold}}{103}{theorem.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~6.6.7\else \numberline {6.6.7}Teorema\fi \thmtformatoptarg {Teorema central del límite en \(\symbb {R}^d\)}}{104}{theorem.7}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~7.1.1\else \numberline {7.1.1}Definición\fi \thmtformatoptarg {Proceso estocástico}}{106}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.1.2\else \numberline {7.1.2}Definición\fi \thmtformatoptarg {Trayectoria}}{106}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.1.3\else \numberline {7.1.3}Definición\fi \thmtformatoptarg {Proceso estocástico en \(\symbb {R}^{d}\)}}{106}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.1.4\else \numberline {7.1.4}Definición\fi \thmtformatoptarg {Caminata aleatoria simple}}{107}{definition.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.1.5\else \numberline {7.1.5}Definición\fi \thmtformatoptarg {Caminata aleatoria generalizada}}{107}{definition.5}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~7.1.1\else \numberline {7.1.1}Proposición\fi \thmtformatoptarg {Propiedad de Markov}}{107}{proposition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.2.1\else \numberline {7.2.1}Definición\fi \thmtformatoptarg {Cadena de Markov}}{107}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.2.2\else \numberline {7.2.2}Definición\fi \thmtformatoptarg {Probabilidades de transición}}{107}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.2.3\else \numberline {7.2.3}Definición\fi \thmtformatoptarg {Distribución inicial de la cadena}}{108}{definition.3}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.2.1\else \numberline {7.2.1}Lema\fi \thmtformatoptarg {Factorización con Markov}}{108}{lemma.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.2.4\else \numberline {7.2.4}Definición\fi \thmtformatoptarg {Función de transición de \(m\)-pasos}}{108}{definition.4}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.2.2\else \numberline {7.2.2}Lema\fi \thmtformatoptarg {Expansionan de una cadena de Markov}}{108}{lemma.2}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~7.2.1\else \numberline {7.2.1}Corolario\fi \thmtformatoptarg {Equivalencia de transición de n+m pasos}}{108}{corollary.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.2.1\else \numberline {7.2.1}Teorema\fi \thmtformatoptarg {Chapman-Kolmogorov}}{108}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.2.5\else \numberline {7.2.5}Definición\fi \thmtformatoptarg {Función de transición}}{109}{definition.5}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~7.2.2\else \numberline {7.2.2}Corolario\fi \thmtformatoptarg {Matriz de m-pasos de transición}}{109}{corollary.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.2.3\else \numberline {7.2.3}Lema\fi \thmtformatoptarg {No se como llamarlo}}{109}{lemma.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.3.1\else \numberline {7.3.1}Definición\fi \thmtformatoptarg {Probabilidad de transición y cadena de Markov}}{109}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.3.2\else \numberline {7.3.2}Definición\fi \thmtformatoptarg {Operadores de desplazamiento}}{109}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.3.1\else \numberline {7.3.1}Teorema\fi }{109}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.3.2\else \numberline {7.3.2}Teorema\fi \thmtformatoptarg {Teorema de la clase monótona}}{110}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.3.3\else \numberline {7.3.3}Teorema\fi \thmtformatoptarg {Propiedad de Markov (operador de desplazamiento)}}{110}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.3.3\else \numberline {7.3.3}Definición\fi \thmtformatoptarg {$\mitsigma $-álgebra $\symcal {F}_N$ y desplazamiento aleatorio}}{110}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.3.4\else \numberline {7.3.4}Teorema\fi \thmtformatoptarg {Propiedad fuerte de Markov (operador de desplazamiento)}}{110}{theorem.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.4.1\else \numberline {7.4.1}Definición\fi \thmtformatoptarg {Comunicación de una cadena}}{110}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.4.2\else \numberline {7.4.2}Definición\fi \thmtformatoptarg {No comunicación}}{110}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.4.3\else \numberline {7.4.3}Definición\fi \thmtformatoptarg {Intercomunicación}}{111}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.4.4\else \numberline {7.4.4}Definición\fi \thmtformatoptarg {Cadena irreducible}}{111}{definition.4}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.4.1\else \numberline {7.4.1}Lema\fi \thmtformatoptarg {Condición para comunicación}}{111}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.4.2\else \numberline {7.4.2}Lema\fi \thmtformatoptarg {Relación de equivalencia}}{111}{lemma.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.4.5\else \numberline {7.4.5}Definición\fi \thmtformatoptarg {Notación de comunicación}}{111}{definition.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.4.6\else \numberline {7.4.6}Definición\fi \thmtformatoptarg {Recurrente y transitorio}}{111}{definition.6}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.4.7\else \numberline {7.4.7}Definición\fi \thmtformatoptarg {Visita exacta}}{111}{definition.7}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.4.8\else \numberline {7.4.8}Definición\fi \thmtformatoptarg {Estado absorbente}}{111}{definition.8}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~7.4.1\else \numberline {7.4.1}Proposición\fi \thmtformatoptarg {Recurrencia en estados no absorbentes}}{111}{proposition.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.4.3\else \numberline {7.4.3}Lema\fi \thmtformatoptarg {Comunicación y visita}}{112}{lemma.3}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.4.4\else \numberline {7.4.4}Lema\fi \thmtformatoptarg {Primera visita}}{112}{lemma.4}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~7.4.2\else \numberline {7.4.2}Proposición\fi \thmtformatoptarg {Absorción casi segura desde transitorios}}{112}{proposition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.4.9\else \numberline {7.4.9}Definición\fi \thmtformatoptarg {Tiempos de retorno}}{112}{definition.9}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.4.1\else \numberline {7.4.1}Teorema\fi }{112}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.4.10\else \numberline {7.4.10}Definición\fi \thmtformatoptarg {Numero esperado de visitas}}{112}{definition.10}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.4.5\else \numberline {7.4.5}Lema\fi \thmtformatoptarg {Transiciones y Numero de visitas}}{113}{lemma.5}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.4.6\else \numberline {7.4.6}Lema\fi \thmtformatoptarg {Series de potencia de visitas}}{113}{lemma.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.4.2\else \numberline {7.4.2}Teorema\fi \thmtformatoptarg {Consecuencias de recurrencia y transición}}{114}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.4.3\else \numberline {7.4.3}Teorema\fi \thmtformatoptarg {Caracterización de la recurrencia}}{114}{theorem.3}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~7.4.3\else \numberline {7.4.3}Proposición\fi \thmtformatoptarg {Transitorios se visitan finitas veces}}{114}{proposition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.4.11\else \numberline {7.4.11}Definición\fi \thmtformatoptarg {Tiempo medio de recurrencia}}{114}{definition.11}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.4.4\else \numberline {7.4.4}Teorema\fi }{114}{theorem.4}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~7.4.4\else \numberline {7.4.4}Proposición\fi \thmtformatoptarg {Convergencia cesariana de las transiciones}}{115}{proposition.4}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.4.7\else \numberline {7.4.7}Lema\fi \thmtformatoptarg {Equivalencia de nulorecurente}}{115}{lemma.7}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.4.12\else \numberline {7.4.12}Definición\fi \thmtformatoptarg {Estado periódico}}{115}{definition.12}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.4.5\else \numberline {7.4.5}Teorema\fi \thmtformatoptarg {Equivalencia entre estados}}{115}{theorem.5}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.4.8\else \numberline {7.4.8}Lema\fi \thmtformatoptarg {Recurrencia y equivalencia}}{116}{lemma.8}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.4.13\else \numberline {7.4.13}Definición\fi \thmtformatoptarg {Conjunto cerrado e irreducible}}{116}{definition.13}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.4.6\else \numberline {7.4.6}Teorema\fi \thmtformatoptarg {Equivalencia de cerrado}}{116}{theorem.6}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.4.9\else \numberline {7.4.9}Lema\fi \thmtformatoptarg {Recurrencia en conjunto cerrado}}{116}{lemma.9}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.4.7\else \numberline {7.4.7}Teorema\fi \thmtformatoptarg {Recurrencia positiva en conjuntos finitos cerrados}}{117}{theorem.7}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~7.4.1\else \numberline {7.4.1}Corolario\fi \thmtformatoptarg {Recurrencia positiva en cadenas finitas irreducibles}}{117}{corollary.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.4.8\else \numberline {7.4.8}Teorema\fi \thmtformatoptarg {Descomposición del espacio de estados}}{117}{theorem.8}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.4.10\else \numberline {7.4.10}Lema\fi \thmtformatoptarg {Existencia de descenso estricto}}{118}{lemma.10}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~7.4.5\else \numberline {7.4.5}Proposición\fi \thmtformatoptarg {Probabilidad de absorción con función harmónica monótona}}{118}{proposition.5}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.4.11\else \numberline {7.4.11}Lema\fi \thmtformatoptarg {Conjunto de máximo es cerrado}}{118}{lemma.11}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.5.1\else \numberline {7.5.1}Teorema\fi }{118}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.5.1\else \numberline {7.5.1}Definición\fi \thmtformatoptarg {Cadena de nacimiento y muerte}}{118}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.5.2\else \numberline {7.5.2}Teorema\fi }{119}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.5.3\else \numberline {7.5.3}Teorema\fi }{119}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.6.1\else \numberline {7.6.1}Teorema\fi \thmtformatoptarg {Principio de reflexión (caminatas simétricas)}}{119}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.6.1\else \numberline {7.6.1}Definición\fi \thmtformatoptarg {Valor recurrente y valor posible}}{119}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.6.2\else \numberline {7.6.2}Teorema\fi }{119}{theorem.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.6.2\else \numberline {7.6.2}Definición\fi \thmtformatoptarg {Caminata aleatoria recurrente y transitoria}}{119}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.6.3\else \numberline {7.6.3}Teorema\fi }{119}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.6.4\else \numberline {7.6.4}Teorema\fi }{119}{theorem.4}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.6.1\else \numberline {7.6.1}Lema\fi }{120}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.6.2\else \numberline {7.6.2}Lema\fi }{120}{lemma.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.6.5\else \numberline {7.6.5}Teorema\fi }{120}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.6.6\else \numberline {7.6.6}Teorema\fi \thmtformatoptarg {Teorema de Chung-Fuchs}}{120}{theorem.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.6.7\else \numberline {7.6.7}Teorema\fi }{120}{theorem.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.6.8\else \numberline {7.6.8}Teorema\fi }{120}{theorem.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.6.9\else \numberline {7.6.9}Teorema\fi }{120}{theorem.9}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.6.3\else \numberline {7.6.3}Lema\fi \thmtformatoptarg {Relación de Parseval}}{120}{lemma.3}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.6.4\else \numberline {7.6.4}Lema\fi }{120}{lemma.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.6.3\else \numberline {7.6.3}Definición\fi \thmtformatoptarg {Caminata aleatoria verdaderamente tridimensional}}{120}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.6.10\else \numberline {7.6.10}Teorema\fi }{120}{theorem.10}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.7.1\else \numberline {7.7.1}Definición\fi \thmtformatoptarg {Medida estacionaria}}{121}{definition.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.7.1\else \numberline {7.7.1}Lema\fi \thmtformatoptarg {Invariante para probabilidades n‑pasos}}{121}{lemma.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.7.2\else \numberline {7.7.2}Definición\fi \thmtformatoptarg {Probabilidad de transición doblemente estocástica}}{121}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.7.3\else \numberline {7.7.3}Definición\fi \thmtformatoptarg {Balance detallado y medida reversible}}{121}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.7.1\else \numberline {7.7.1}Teorema\fi }{121}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.7.2\else \numberline {7.7.2}Teorema\fi \thmtformatoptarg {Condición del ciclo de Kolmogorov}}{121}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.7.3\else \numberline {7.7.3}Teorema\fi }{121}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.7.4\else \numberline {7.7.4}Teorema\fi }{122}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.7.5\else \numberline {7.7.5}Teorema\fi \thmtformatoptarg {Equivalencia entre recurrencia positiva e invariancia}}{122}{theorem.5}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~7.7.1\else \numberline {7.7.1}Corolario\fi \thmtformatoptarg {Existencia y unicidad en cadenas finitas irreducibles}}{122}{corollary.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.7.6\else \numberline {7.7.6}Teorema\fi }{122}{theorem.6}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.7.2\else \numberline {7.7.2}Lema\fi \thmtformatoptarg {Soporte de la distribución estacionaria}}{122}{lemma.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.7.7\else \numberline {7.7.7}Teorema\fi \thmtformatoptarg {Clasificación de distribuciones estacionarias}}{123}{theorem.7}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~7.8.1\else \numberline {7.8.1}Corolario\fi \thmtformatoptarg {Ergódico de medias temporales}}{123}{corollary.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.8.1\else \numberline {7.8.1}Lema\fi }{123}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.8.2\else \numberline {7.8.2}Lema\fi }{123}{lemma.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.8.1\else \numberline {7.8.1}Definición\fi \thmtformatoptarg {Descomposición cíclica}}{124}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.8.1\else \numberline {7.8.1}Teorema\fi \thmtformatoptarg {Ergódico de convergencia}}{124}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.9.1\else \numberline {7.9.1}Definición\fi \thmtformatoptarg {$\mitsigma $-álgebra de cola}}{125}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.9.1\else \numberline {7.9.1}Teorema\fi }{125}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.9.2\else \numberline {7.9.2}Teorema\fi }{125}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.9.3\else \numberline {7.9.3}Teorema\fi }{125}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.10.1\else \numberline {7.10.1}Definición\fi \thmtformatoptarg {Cadena de Harris}}{125}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.10.2\else \numberline {7.10.2}Definición\fi \thmtformatoptarg {Cadena extendida $\bar {X}_n$}}{125}{definition.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.10.1\else \numberline {7.10.1}Lema\fi }{126}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.10.2\else \numberline {7.10.2}Lema\fi }{126}{lemma.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.10.3\else \numberline {7.10.3}Lema\fi }{126}{lemma.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.10.3\else \numberline {7.10.3}Definición\fi \thmtformatoptarg {Recurrencia y transitoriedad para cadenas de Harris}}{126}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.10.1\else \numberline {7.10.1}Teorema\fi }{126}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.10.2\else \numberline {7.10.2}Teorema\fi }{126}{theorem.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.10.4\else \numberline {7.10.4}Lema\fi }{126}{lemma.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.10.3\else \numberline {7.10.3}Teorema\fi }{126}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.10.4\else \numberline {7.10.4}Definición\fi \thmtformatoptarg {Cadena de Harris aperiódica}}{126}{definition.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.10.4\else \numberline {7.10.4}Teorema\fi }{126}{theorem.4}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.10.5\else \numberline {7.10.5}Lema\fi }{126}{lemma.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.11.1\else \numberline {7.11.1}Definición\fi \thmtformatoptarg {Sucesión estacionaria}}{127}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.11.2\else \numberline {7.11.2}Definición\fi \thmtformatoptarg {Transformación que preserva la medida}}{127}{definition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~7.11.1\else \numberline {7.11.1}Proposición\fi }{127}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~7.11.2\else \numberline {7.11.2}Proposición\fi }{127}{proposition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~7.11.3\else \numberline {7.11.3}Definición\fi \thmtformatoptarg {Evento invariante y transformación ergódica}}{127}{definition.3}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.11.1\else \numberline {7.11.1}Lema\fi \thmtformatoptarg {Lema ergódico maximal}}{127}{lemma.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.11.1\else \numberline {7.11.1}Teorema\fi \thmtformatoptarg {Teorema ergódico}}{127}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.11.2\else \numberline {7.11.2}Teorema\fi }{127}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.11.3\else \numberline {7.11.3}Teorema\fi }{127}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.11.4\else \numberline {7.11.4}Teorema\fi }{128}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.11.5\else \numberline {7.11.5}Teorema\fi \thmtformatoptarg {Kac}}{128}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~7.11.6\else \numberline {7.11.6}Teorema\fi \thmtformatoptarg {Teorema ergódico subaditivo}}{128}{theorem.6}%
+\contentsline {lemma}{\ifthmt@listswap Lema~7.11.2\else \numberline {7.11.2}Lema\fi }{128}{lemma.2}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~8.1.1\else \numberline {8.1.1}Definición\fi \thmtformatoptarg {Distribución condicional regular}}{129}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.1.1\else \numberline {8.1.1}Teorema\fi }{129}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.1.2\else \numberline {8.1.2}Teorema\fi }{129}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.1.3\else \numberline {8.1.3}Teorema\fi }{130}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.2.1\else \numberline {8.2.1}Definición\fi \thmtformatoptarg {martingala en tiempo discreto}}{130}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.2.2\else \numberline {8.2.2}Definición\fi \thmtformatoptarg {Filtración}}{130}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.2.3\else \numberline {8.2.3}Definición\fi \thmtformatoptarg {Filtración natural}}{130}{definition.3}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~8.2.1\else \numberline {8.2.1}Proposición\fi }{130}{proposition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.2.4\else \numberline {8.2.4}Definición\fi \thmtformatoptarg {\((\symcal {F}_n)\)-adaptado}}{130}{definition.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.2.5\else \numberline {8.2.5}Definición\fi \thmtformatoptarg {\((\symcal {F}_n)\)-martingala}}{131}{definition.5}%
+\contentsline {lemma}{\ifthmt@listswap Lema~8.2.1\else \numberline {8.2.1}Lema\fi }{131}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~8.2.2\else \numberline {8.2.2}Lema\fi }{131}{lemma.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~8.2.3\else \numberline {8.2.3}Lema\fi }{131}{lemma.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.2.1\else \numberline {8.2.1}Teorema\fi }{131}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.2.2\else \numberline {8.2.2}Teorema\fi \thmtformatoptarg {Consecuencias para submartingalas y supermartingalas}}{131}{theorem.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.2.6\else \numberline {8.2.6}Definición\fi \thmtformatoptarg {\((\symcal {F}_n)\)-predecible}}{132}{definition.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.2.3\else \numberline {8.2.3}Teorema\fi \thmtformatoptarg {Descomposición de Doob}}{132}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.2.7\else \numberline {8.2.7}Definición\fi \thmtformatoptarg {Transformada de martingala}}{132}{definition.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.2.4\else \numberline {8.2.4}Teorema\fi }{132}{theorem.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.2.8\else \numberline {8.2.8}Definición\fi \thmtformatoptarg {Ganancias del sistema $H$}}{132}{definition.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.2.5\else \numberline {8.2.5}Teorema\fi }{133}{theorem.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.3.1\else \numberline {8.3.1}Definición\fi \thmtformatoptarg {\((\symcal {F}_n)\)-tiempo de parada}}{133}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.3.2\else \numberline {8.3.2}Definición\fi \thmtformatoptarg {Variable detenida}}{133}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.4.1\else \numberline {8.4.1}Definición\fi \thmtformatoptarg {Proceso detenido}}{133}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.4.1\else \numberline {8.4.1}Teorema\fi \thmtformatoptarg {Parada Opcional de Doob}}{133}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.4.2\else \numberline {8.4.2}Teorema\fi }{134}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.5.1\else \numberline {8.5.1}Teorema\fi \thmtformatoptarg {Desigualdad Maximal de Doob}}{134}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.5.2\else \numberline {8.5.2}Teorema\fi \thmtformatoptarg {Desigualdad de Doob}}{134}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.5.3\else \numberline {8.5.3}Teorema\fi \thmtformatoptarg {Desigualdad en \(L^p\) de Doob}}{134}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.6.1\else \numberline {8.6.1}Definición\fi \thmtformatoptarg {Cruces ascendentes}}{135}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.6.1\else \numberline {8.6.1}Teorema\fi \thmtformatoptarg {Desigualdad de cruces ascendentes}}{135}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.6.2\else \numberline {8.6.2}Teorema\fi \thmtformatoptarg {Convergencia de Martingalas}}{135}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.6.3\else \numberline {8.6.3}Teorema\fi \thmtformatoptarg {Convergencia de submartingalas}}{137}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.6.4\else \numberline {8.6.4}Teorema\fi \thmtformatoptarg {Convergencia de supermartingalas no negativas}}{137}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.7.1\else \numberline {8.7.1}Teorema\fi }{138}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.7.2\else \numberline {8.7.2}Teorema\fi \thmtformatoptarg {Segundo lema de Borel-Cantelli, II}}{138}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.7.3\else \numberline {8.7.3}Teorema\fi }{138}{theorem.3}%
+\contentsline {lemma}{\ifthmt@listswap Lema~8.7.1\else \numberline {8.7.1}Lema\fi }{138}{lemma.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.7.4\else \numberline {8.7.4}Teorema\fi \thmtformatoptarg {Dicotomía de Kakutani}}{138}{theorem.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.7.1\else \numberline {8.7.1}Definición\fi \thmtformatoptarg {Proceso de Galton-Watson}}{138}{definition.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~8.7.2\else \numberline {8.7.2}Lema\fi }{138}{lemma.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.7.5\else \numberline {8.7.5}Teorema\fi }{139}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.7.6\else \numberline {8.7.6}Teorema\fi }{139}{theorem.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.7.7\else \numberline {8.7.7}Teorema\fi }{139}{theorem.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.7.8\else \numberline {8.7.8}Teorema\fi \thmtformatoptarg {Kesten-Stigum}}{139}{theorem.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.8.1\else \numberline {8.8.1}Teorema\fi \thmtformatoptarg {Ortogonalidad de los incrementos de una martingala}}{139}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.8.2\else \numberline {8.8.2}Teorema\fi \thmtformatoptarg {Fórmula de la varianza condicional}}{139}{theorem.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.8.1\else \numberline {8.8.1}Definición\fi \thmtformatoptarg {Proceso creciente asociado}}{139}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.8.3\else \numberline {8.8.3}Teorema\fi }{139}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.8.4\else \numberline {8.8.4}Teorema\fi }{139}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.8.5\else \numberline {8.8.5}Teorema\fi }{139}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.8.6\else \numberline {8.8.6}Teorema\fi \thmtformatoptarg {Segundo lema de Borel-Cantelli, III}}{140}{theorem.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.8.7\else \numberline {8.8.7}Teorema\fi }{140}{theorem.7}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.9.1\else \numberline {8.9.1}Definición\fi \thmtformatoptarg {Integrabilidad uniforme}}{140}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.9.1\else \numberline {8.9.1}Teorema\fi }{140}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.9.2\else \numberline {8.9.2}Teorema\fi }{140}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.9.3\else \numberline {8.9.3}Teorema\fi }{140}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.9.4\else \numberline {8.9.4}Teorema\fi }{140}{theorem.4}%
+\contentsline {lemma}{\ifthmt@listswap Lema~8.9.1\else \numberline {8.9.1}Lema\fi }{140}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~8.9.2\else \numberline {8.9.2}Lema\fi }{141}{lemma.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.9.5\else \numberline {8.9.5}Teorema\fi }{141}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.9.6\else \numberline {8.9.6}Teorema\fi }{141}{theorem.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.9.7\else \numberline {8.9.7}Teorema\fi \thmtformatoptarg {Ley 0-1 de Lévy}}{141}{theorem.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.9.8\else \numberline {8.9.8}Teorema\fi \thmtformatoptarg {Teorema de convergencia dominada para esperanzas condicionales}}{141}{theorem.8}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.10.1\else \numberline {8.10.1}Definición\fi \thmtformatoptarg {Martingala hacia atrás}}{141}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.10.1\else \numberline {8.10.1}Teorema\fi }{141}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.10.2\else \numberline {8.10.2}Teorema\fi }{141}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.10.3\else \numberline {8.10.3}Teorema\fi }{141}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.10.4\else \numberline {8.10.4}Teorema\fi \thmtformatoptarg {Teorema del escrutinio (versión general)}}{141}{theorem.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.10.2\else \numberline {8.10.2}Definición\fi \thmtformatoptarg {$\mitsigma $-álgebra intercambiable}}{142}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.10.5\else \numberline {8.10.5}Teorema\fi \thmtformatoptarg {Ley 0-1 de Hewitt-Savage}}{142}{theorem.5}%
+\contentsline {lemma}{\ifthmt@listswap Lema~8.10.1\else \numberline {8.10.1}Lema\fi }{142}{lemma.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~8.10.3\else \numberline {8.10.3}Definición\fi \thmtformatoptarg {Sucesión intercambiable}}{142}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.10.6\else \numberline {8.10.6}Teorema\fi \thmtformatoptarg {Teorema de de Finetti}}{142}{theorem.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.10.7\else \numberline {8.10.7}Teorema\fi }{142}{theorem.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.11.1\else \numberline {8.11.1}Teorema\fi }{142}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.11.2\else \numberline {8.11.2}Teorema\fi }{142}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.11.3\else \numberline {8.11.3}Teorema\fi }{142}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.11.4\else \numberline {8.11.4}Teorema\fi }{143}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.11.5\else \numberline {8.11.5}Teorema\fi }{143}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.11.6\else \numberline {8.11.6}Teorema\fi \thmtformatoptarg {Ecuación de Wald}}{143}{theorem.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.11.7\else \numberline {8.11.7}Teorema\fi \thmtformatoptarg {Caminata aleatoria simétrica simple}}{143}{theorem.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.11.8\else \numberline {8.11.8}Teorema\fi }{143}{theorem.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.11.9\else \numberline {8.11.9}Teorema\fi \thmtformatoptarg {Caminata aleatoria simple asimétrica}}{143}{theorem.9}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~8.12.1\else \numberline {8.12.1}Proposición\fi }{144}{proposition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.12.1\else \numberline {8.12.1}Teorema\fi \thmtformatoptarg {Principio de reflexión (conteo de caminos)}}{144}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.12.2\else \numberline {8.12.2}Teorema\fi \thmtformatoptarg {Teorema del escrutinio (elecciones)}}{144}{theorem.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~8.12.1\else \numberline {8.12.1}Lema\fi }{144}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~8.12.2\else \numberline {8.12.2}Lema\fi }{144}{lemma.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.12.3\else \numberline {8.12.3}Teorema\fi \thmtformatoptarg {Ley del arcoseno para la última visita a 0}}{144}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~8.12.4\else \numberline {8.12.4}Teorema\fi \thmtformatoptarg {Ley del arcoseno para el tiempo sobre 0}}{144}{theorem.4}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~9.1.1\else \numberline {9.1.1}Definición\fi \thmtformatoptarg {Càdlàg}}{145}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.1.2\else \numberline {9.1.2}Definición\fi \thmtformatoptarg {Filtración en tiempo continuo}}{145}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.1.3\else \numberline {9.1.3}Definición\fi \thmtformatoptarg {Filtración natural}}{145}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.1.4\else \numberline {9.1.4}Definición\fi \thmtformatoptarg {\((\symcal {F}_t)\)-adaptado}}{145}{definition.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.1.5\else \numberline {9.1.5}Definición\fi \thmtformatoptarg {\((\symcal {F}_t)\)-tiempo de parada}}{146}{definition.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.1.6\else \numberline {9.1.6}Definición\fi \thmtformatoptarg {Proceso detenido}}{146}{definition.6}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.1.7\else \numberline {9.1.7}Definición\fi \thmtformatoptarg {\((\symcal {F}_t)\)-martingala}}{146}{definition.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.1.1\else \numberline {9.1.1}Teorema\fi \thmtformatoptarg {Versión càdlàg de martingalas continuas}}{146}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.1.2\else \numberline {9.1.2}Teorema\fi \thmtformatoptarg {Parada Opcional de Doob}}{146}{theorem.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~9.1.1\else \numberline {9.1.1}Proposición\fi \thmtformatoptarg {Preservación de la clase bajo detención}}{146}{proposition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.1.3\else \numberline {9.1.3}Teorema\fi }{146}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.1.4\else \numberline {9.1.4}Teorema\fi \thmtformatoptarg {Desigualdad Maximal de Doob}}{146}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.1.5\else \numberline {9.1.5}Teorema\fi \thmtformatoptarg {Convergencia de Martingalas}}{147}{theorem.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.2.1\else \numberline {9.2.1}Definición\fi \thmtformatoptarg {Construcción}}{147}{definition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~9.2.1\else \numberline {9.2.1}Proposición\fi \thmtformatoptarg {Divergencia de los tiempos de llegada}}{147}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~9.2.2\else \numberline {9.2.2}Proposición\fi \thmtformatoptarg {Distribución de Poisson de los conteos}}{147}{proposition.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.2.1\else \numberline {9.2.1}Lema\fi \thmtformatoptarg {Propiedad de memoria en el proceso de Poisson}}{148}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.2.2\else \numberline {9.2.2}Lema\fi \thmtformatoptarg {Propiedad de regeneración de los tiempos de llegada}}{148}{lemma.2}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~9.2.1\else \numberline {9.2.1}Corolario\fi \thmtformatoptarg {Propiedad de regeneración de los conteos}}{149}{corollary.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.2.2\else \numberline {9.2.2}Definición\fi \thmtformatoptarg {Incrementos}}{149}{definition.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.2.3\else \numberline {9.2.3}Lema\fi \thmtformatoptarg {Incrementos estacionarios del proceso de Poisson}}{149}{lemma.3}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.2.4\else \numberline {9.2.4}Lema\fi \thmtformatoptarg {Incrementos independientes del proceso de Poisson}}{149}{lemma.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.2.3\else \numberline {9.2.3}Definición\fi \thmtformatoptarg {Proceso de Lévy}}{150}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.2.1\else \numberline {9.2.1}Teorema\fi \thmtformatoptarg {Caracterización del proceso de Poisson como proceso de Lévy}}{150}{theorem.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.2.5\else \numberline {9.2.5}Lema\fi \thmtformatoptarg {Recíproco de la caracterización de Poisson}}{150}{lemma.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.2.4\else \numberline {9.2.4}Definición\fi \thmtformatoptarg {Proceso de saltos}}{150}{definition.4}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.2.6\else \numberline {9.2.6}Lema\fi \thmtformatoptarg {Saltos unitarios en el proceso de Poisson}}{150}{lemma.6}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.2.7\else \numberline {9.2.7}Lema\fi \thmtformatoptarg {Ausencia de saltos en tiempos fijos de Lévy}}{150}{lemma.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.2.2\else \numberline {9.2.2}Teorema\fi \thmtformatoptarg {Caracterización de procesos de Lévy con saltos unitarios}}{151}{theorem.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.2.8\else \numberline {9.2.8}Lema\fi \thmtformatoptarg {Martingala de Lévy con media cero}}{151}{lemma.8}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~9.2.2\else \numberline {9.2.2}Corolario\fi \thmtformatoptarg {Martingala compensada del proceso de Poisson}}{151}{corollary.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.3.1\else \numberline {9.3.1}Definición\fi \thmtformatoptarg {Proceso compuesto de Poisson}}{151}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.3.1\else \numberline {9.3.1}Teorema\fi \thmtformatoptarg {Proceso compuesto de Poisson como proceso de Lévy}}{152}{theorem.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.3.1\else \numberline {9.3.1}Lema\fi \thmtformatoptarg {Existencia de momentos en el proceso compuesto de Poisson}}{152}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.3.2\else \numberline {9.3.2}Lema\fi \thmtformatoptarg {Función característica del proceso compuesto de Poisson}}{152}{lemma.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.1\else \numberline {9.4.1}Definición\fi \thmtformatoptarg {Movimiento Browniano estándar}}{153}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.1\else \numberline {9.4.1}Teorema\fi \thmtformatoptarg {Movimiento Browniano estándar como proceso de Lévy}}{153}{theorem.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~9.4.1\else \numberline {9.4.1}Proposición\fi \thmtformatoptarg {Martingalas y el Browniano}}{153}{proposition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.2\else \numberline {9.4.2}Definición\fi \thmtformatoptarg {Distribución Gaussiana multivariada}}{154}{definition.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.4.1\else \numberline {9.4.1}Lema\fi \thmtformatoptarg {Independencia Gaussiana}}{154}{lemma.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~9.4.2\else \numberline {9.4.2}Proposición\fi \thmtformatoptarg {Caracterización Gaussiana}}{154}{proposition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.3\else \numberline {9.4.3}Definición\fi \thmtformatoptarg {Gaussiano}}{154}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.2\else \numberline {9.4.2}Teorema\fi \thmtformatoptarg {Caracterización del Movimiento Browniano}}{154}{theorem.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~9.4.3\else \numberline {9.4.3}Proposición\fi \thmtformatoptarg {Invariancias del Movimiento Browniano}}{155}{proposition.3}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~9.4.4\else \numberline {9.4.4}Proposición\fi \thmtformatoptarg {Construcción de Wiener del Browniano}}{156}{proposition.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.3\else \numberline {9.4.3}Teorema\fi }{156}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.4\else \numberline {9.4.4}Teorema\fi }{156}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.5\else \numberline {9.4.5}Teorema\fi \thmtformatoptarg {Kolmogorov}}{156}{theorem.5}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.4.2\else \numberline {9.4.2}Lema\fi }{156}{lemma.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~9.4.5\else \numberline {9.4.5}Proposición\fi \thmtformatoptarg {Browniano en dimensión \(d\)}}{156}{proposition.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.4\else \numberline {9.4.4}Definición\fi \thmtformatoptarg {Movimiento Browniano estándar \(d\)-dimensional}}{157}{definition.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.6\else \numberline {9.4.6}Teorema\fi \thmtformatoptarg {Equivalencia del Browniano Multidimensional}}{157}{theorem.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.7\else \numberline {9.4.7}Teorema\fi \thmtformatoptarg {Descomposición de Lévy-Itô}}{157}{theorem.7}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.5\else \numberline {9.4.5}Definición\fi \thmtformatoptarg {Varianza}}{157}{definition.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.8\else \numberline {9.4.8}Teorema\fi \thmtformatoptarg {Variación del Movimiento Browniano}}{158}{theorem.8}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.6\else \numberline {9.4.6}Definición\fi \thmtformatoptarg {Hölder continuidad}}{158}{definition.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.9\else \numberline {9.4.9}Teorema\fi \thmtformatoptarg {Regularidad Hölder del Browniano}}{159}{theorem.9}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~9.4.1\else \numberline {9.4.1}Corolario\fi \thmtformatoptarg {No Regularidad Hölder del Browniano}}{159}{corollary.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.10\else \numberline {9.4.10}Teorema\fi \thmtformatoptarg {Módulo de continuidad de Lévy}}{159}{theorem.10}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.11\else \numberline {9.4.11}Teorema\fi \thmtformatoptarg {Paley-Wiener-Zygmund}}{159}{theorem.11}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.12\else \numberline {9.4.12}Teorema\fi \thmtformatoptarg {No Monotonía del Browniano}}{159}{theorem.12}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.13\else \numberline {9.4.13}Teorema\fi \thmtformatoptarg {Comportamiento en el largo plaza}}{160}{theorem.13}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.14\else \numberline {9.4.14}Teorema\fi }{160}{theorem.14}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.15\else \numberline {9.4.15}Teorema\fi \thmtformatoptarg {Comportamiento en el corto plazo}}{160}{theorem.15}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.7\else \numberline {9.4.7}Definición\fi \thmtformatoptarg {Proceso de Markov}}{160}{definition.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.16\else \numberline {9.4.16}Teorema\fi \thmtformatoptarg {Propiedad de Markov del Browniano}}{160}{theorem.16}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.8\else \numberline {9.4.8}Definición\fi \thmtformatoptarg {Función de transición}}{161}{definition.8}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.9\else \numberline {9.4.9}Definición\fi \thmtformatoptarg {Densidad de transición}}{161}{definition.9}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.10\else \numberline {9.4.10}Definición\fi \thmtformatoptarg {$\mitsigma $-álgebras $\symcal {F}_s^o$ y $\symcal {F}_{s+}$, operador de desplazamiento}}{161}{definition.10}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.17\else \numberline {9.4.17}Teorema\fi \thmtformatoptarg {Propiedad de Markov (operador de desplazamiento)}}{161}{theorem.17}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.18\else \numberline {9.4.18}Teorema\fi }{162}{theorem.18}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.19\else \numberline {9.4.19}Teorema\fi \thmtformatoptarg {Ley 0-1 de Blumenthal}}{162}{theorem.19}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.20\else \numberline {9.4.20}Teorema\fi }{162}{theorem.20}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.11\else \numberline {9.4.11}Definición\fi \thmtformatoptarg {$\mitsigma $-álgebra de cola (Browniano)}}{162}{definition.11}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.21\else \numberline {9.4.21}Teorema\fi }{162}{theorem.21}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.22\else \numberline {9.4.22}Teorema\fi }{162}{theorem.22}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.12\else \numberline {9.4.12}Definición\fi \thmtformatoptarg {$\mitsigma $-álgebras completadas}}{162}{definition.12}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.13\else \numberline {9.4.13}Definición\fi \thmtformatoptarg {Tiempo de paro (continuidad por derecha)}}{162}{definition.13}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.23\else \numberline {9.4.23}Teorema\fi }{162}{theorem.23}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.24\else \numberline {9.4.24}Teorema\fi }{162}{theorem.24}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.25\else \numberline {9.4.25}Teorema\fi }{162}{theorem.25}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.26\else \numberline {9.4.26}Teorema\fi }{162}{theorem.26}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.27\else \numberline {9.4.27}Teorema\fi }{162}{theorem.27}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.14\else \numberline {9.4.14}Definición\fi \thmtformatoptarg {Desplazamiento aleatorio e información al tiempo $S$}}{162}{definition.14}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.28\else \numberline {9.4.28}Teorema\fi }{163}{theorem.28}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.29\else \numberline {9.4.29}Teorema\fi }{163}{theorem.29}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.30\else \numberline {9.4.30}Teorema\fi }{163}{theorem.30}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.31\else \numberline {9.4.31}Teorema\fi \thmtformatoptarg {Propiedad fuerte de Markov (Browniano)}}{163}{theorem.31}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.32\else \numberline {9.4.32}Teorema\fi \thmtformatoptarg {Principio de Reflexión}}{163}{theorem.32}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~9.4.6\else \numberline {9.4.6}Proposición\fi \thmtformatoptarg {Conjunto de ceros}}{163}{proposition.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.33\else \numberline {9.4.33}Teorema\fi }{163}{theorem.33}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~9.4.7\else \numberline {9.4.7}Proposición\fi }{163}{proposition.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.34\else \numberline {9.4.34}Teorema\fi \thmtformatoptarg {Principio de reflexión (tiempo de llegada)}}{164}{theorem.34}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~9.4.8\else \numberline {9.4.8}Proposición\fi \thmtformatoptarg {Densidad de $T_a$}}{164}{proposition.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.35\else \numberline {9.4.35}Teorema\fi \thmtformatoptarg {Ley del arcoseno de Lévy}}{164}{theorem.35}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.36\else \numberline {9.4.36}Teorema\fi }{164}{theorem.36}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.37\else \numberline {9.4.37}Teorema\fi }{164}{theorem.37}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.38\else \numberline {9.4.38}Teorema\fi }{164}{theorem.38}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.39\else \numberline {9.4.39}Teorema\fi }{164}{theorem.39}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.40\else \numberline {9.4.40}Teorema\fi }{164}{theorem.40}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.15\else \numberline {9.4.15}Definición\fi \thmtformatoptarg {Martingala local}}{164}{definition.15}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.4.3\else \numberline {9.4.3}Lema\fi }{164}{lemma.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.41\else \numberline {9.4.41}Teorema\fi \thmtformatoptarg {Teorema de representación de Skorokhod}}{165}{theorem.41}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.42\else \numberline {9.4.42}Teorema\fi }{165}{theorem.42}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.43\else \numberline {9.4.43}Teorema\fi \thmtformatoptarg {Teorema central del límite}}{165}{theorem.43}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.16\else \numberline {9.4.16}Definición\fi \thmtformatoptarg {Interpolación lineal}}{165}{definition.16}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.44\else \numberline {9.4.44}Teorema\fi \thmtformatoptarg {Teorema de Donsker}}{165}{theorem.44}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.45\else \numberline {9.4.45}Teorema\fi }{165}{theorem.45}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.4.4\else \numberline {9.4.4}Lema\fi }{165}{lemma.4}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.4.5\else \numberline {9.4.5}Lema\fi }{165}{lemma.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.17\else \numberline {9.4.17}Definición\fi \thmtformatoptarg {Convergencia débil en $C[0,\infty )$}}{166}{definition.17}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.46\else \numberline {9.4.46}Teorema\fi }{166}{theorem.46}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.47\else \numberline {9.4.47}Teorema\fi \thmtformatoptarg {Strassen}}{166}{theorem.47}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.48\else \numberline {9.4.48}Teorema\fi }{166}{theorem.48}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.18\else \numberline {9.4.18}Definición\fi \thmtformatoptarg {Arreglo de diferencias de martingala}}{166}{definition.18}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.49\else \numberline {9.4.49}Teorema\fi \thmtformatoptarg {Freedman}}{166}{theorem.49}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.50\else \numberline {9.4.50}Teorema\fi \thmtformatoptarg {Teorema de Lindeberg-Feller para martingalas}}{166}{theorem.50}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.4.6\else \numberline {9.4.6}Lema\fi }{167}{lemma.6}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.4.7\else \numberline {9.4.7}Lema\fi }{167}{lemma.7}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.4.8\else \numberline {9.4.8}Lema\fi \thmtformatoptarg {Dvoretsky}}{167}{lemma.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.51\else \numberline {9.4.51}Teorema\fi \thmtformatoptarg {Teorema central del límite para martingalas}}{167}{theorem.51}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.52\else \numberline {9.4.52}Teorema\fi \thmtformatoptarg {Billingsley-Ibragimov}}{167}{theorem.52}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.53\else \numberline {9.4.53}Teorema\fi }{167}{theorem.53}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.19\else \numberline {9.4.19}Definición\fi \thmtformatoptarg {Coeficiente de dependencia $\mitalpha $}}{168}{definition.19}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.4.9\else \numberline {9.4.9}Lema\fi }{168}{lemma.9}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.54\else \numberline {9.4.54}Teorema\fi }{168}{theorem.54}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.20\else \numberline {9.4.20}Definición\fi \thmtformatoptarg {Distribución empírica}}{168}{definition.20}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.55\else \numberline {9.4.55}Teorema\fi \thmtformatoptarg {Teorema de Glivenko-Cantelli}}{168}{theorem.55}%
+\contentsline {lemma}{\ifthmt@listswap Lema~9.4.10\else \numberline {9.4.10}Lema\fi }{168}{lemma.10}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.56\else \numberline {9.4.56}Teorema\fi }{168}{theorem.56}%
+\contentsline {definition}{\ifthmt@listswap Definición~9.4.21\else \numberline {9.4.21}Definición\fi \thmtformatoptarg {Puente browniano}}{169}{definition.21}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.57\else \numberline {9.4.57}Teorema\fi }{169}{theorem.57}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~9.4.9\else \numberline {9.4.9}Proposición\fi }{169}{proposition.9}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.58\else \numberline {9.4.58}Teorema\fi \thmtformatoptarg {Ley del logaritmo iterado para el movimiento browniano}}{169}{theorem.58}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.59\else \numberline {9.4.59}Teorema\fi \thmtformatoptarg {Hartman-Wintner}}{169}{theorem.59}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~9.4.60\else \numberline {9.4.60}Teorema\fi \thmtformatoptarg {Principio de invariancia de Strassen}}{169}{theorem.60}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~10.1.1\else \numberline {10.1.1}Definición\fi \thmtformatoptarg {Integrandos simples \(\symcal {S}(T)\)}}{170}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~10.1.2\else \numberline {10.1.2}Definición\fi \thmtformatoptarg {Integral estocástica para procesos simples}}{170}{definition.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~10.1.1\else \numberline {10.1.1}Lema\fi \thmtformatoptarg {Integral estocástica de la indicadora}}{170}{lemma.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~10.1.2\else \numberline {10.1.2}Lema\fi \thmtformatoptarg {Linealidad de la integral estocástica para procesos simples}}{171}{lemma.2}%
+\contentsline {lemma}{\ifthmt@listswap Lema~10.1.3\else \numberline {10.1.3}Lema\fi \thmtformatoptarg {Media de la integral estocástica simple}}{171}{lemma.3}%
+\contentsline {lemma}{\ifthmt@listswap Lema~10.1.4\else \numberline {10.1.4}Lema\fi \thmtformatoptarg {Isometría de Itô}}{171}{lemma.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~10.1.3\else \numberline {10.1.3}Definición\fi \thmtformatoptarg {Integral estocástica como proceso}}{172}{definition.3}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~10.1.1\else \numberline {10.1.1}Proposición\fi }{172}{proposition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~10.2.1\else \numberline {10.2.1}Definición\fi \thmtformatoptarg {Integrandos cuadrado integrables \(H^2(T)\)}}{172}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~10.2.1\else \numberline {10.2.1}Teorema\fi \thmtformatoptarg {Densidad de procesos simples}}{172}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~10.2.2\else \numberline {10.2.2}Teorema\fi \thmtformatoptarg {Convergencia de martingalas cuadrado integrables}}{173}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~10.2.3\else \numberline {10.2.3}Teorema\fi \thmtformatoptarg {Existencia y propiedades de la integral estocástica}}{173}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~10.2.2\else \numberline {10.2.2}Definición\fi \thmtformatoptarg {Integral estocástica en \(H^2(T)\)}}{173}{definition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~10.2.1\else \numberline {10.2.1}Proposición\fi \thmtformatoptarg {Linealidad en \(H^2(T)\)}}{174}{proposition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~10.3.1\else \numberline {10.3.1}Definición\fi \thmtformatoptarg {Integrandos localmente cuadrado integrables \(H^2_{\mathrm {loc}}(T)\)}}{174}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~10.3.1\else \numberline {10.3.1}Teorema\fi \thmtformatoptarg {Existencia de la integral general}}{174}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~10.3.2\else \numberline {10.3.2}Definición\fi \thmtformatoptarg {Integral estocástica general}}{175}{definition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~10.3.1\else \numberline {10.3.1}Proposición\fi \thmtformatoptarg {Linealidad en \(H^2_{\mathrm {loc}}(T)\)}}{175}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~10.4.1\else \numberline {10.4.1}Proposición\fi \thmtformatoptarg {Continuidad de la integral estocástica en \(H^2(T)\)}}{175}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~10.4.2\else \numberline {10.4.2}Proposición\fi \thmtformatoptarg {Continuidad de la integral estocástica en \(H^2_{\text {loc}}(T)\)}}{175}{proposition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~10.4.1\else \numberline {10.4.1}Teorema\fi \thmtformatoptarg {Representación de Riemann}}{176}{theorem.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~10.4.3\else \numberline {10.4.3}Proposición\fi \thmtformatoptarg {Integral estocástica con integrando determinístico}}{177}{proposition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~10.4.2\else \numberline {10.4.2}Teorema\fi \thmtformatoptarg {Fórmula de Itô — Caso Simple}}{177}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~10.4.3\else \numberline {10.4.3}Teorema\fi \thmtformatoptarg {Fórmula de Itô en Espacio y Tiempo}}{177}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~10.5.1\else \numberline {10.5.1}Definición\fi \thmtformatoptarg {Proceso de Itô}}{177}{definition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~10.5.1\else \numberline {10.5.1}Proposición\fi \thmtformatoptarg {Variación cuadrática de un proceso de Itô}}{178}{proposition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~10.5.2\else \numberline {10.5.2}Definición\fi \thmtformatoptarg {Integral respecto a un proceso de Itô}}{178}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~10.5.1\else \numberline {10.5.1}Teorema\fi \thmtformatoptarg {Fórmula de Itô para un proceso de Itô}}{178}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~10.5.2\else \numberline {10.5.2}Teorema\fi \thmtformatoptarg {Fórmula de Itô para dos procesos de Itô}}{178}{theorem.2}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~10.5.1\else \numberline {10.5.1}Corolario\fi \thmtformatoptarg {Regla del producto estocástica}}{179}{corollary.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~10.6.1\else \numberline {10.6.1}Definición\fi \thmtformatoptarg {Integrando matricial en \(H^2(T)\) y \(H^2_{\mathrm {loc}}(T)\)}}{179}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~10.6.2\else \numberline {10.6.2}Definición\fi \thmtformatoptarg {Integral matricial respecto al Browniano \(d\)-dimensional}}{179}{definition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~10.6.1\else \numberline {10.6.1}Proposición\fi \thmtformatoptarg {Isometría de Itô en dimensión matricial}}{179}{proposition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~10.6.3\else \numberline {10.6.3}Definición\fi \thmtformatoptarg {Integral de un proceso vectorial}}{179}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~10.6.4\else \numberline {10.6.4}Definición\fi \thmtformatoptarg {Proceso de Itô en \(\symbb {R}^m\)}}{180}{definition.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~10.6.1\else \numberline {10.6.1}Teorema\fi \thmtformatoptarg {Fórmula de Itô multidimensional}}{180}{theorem.1}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~11.1.1\else \numberline {11.1.1}Definición\fi \thmtformatoptarg {Solución de una EDE}}{181}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~11.1.2\else \numberline {11.1.2}Definición\fi \thmtformatoptarg {Unicidad de solución}}{182}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~11.2.1\else \numberline {11.2.1}Definición\fi \thmtformatoptarg {EDE lineal}}{182}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~11.2.1\else \numberline {11.2.1}Teorema\fi }{182}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~11.2.2\else \numberline {11.2.2}Teorema\fi \thmtformatoptarg {Exponencial estocástica}}{182}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~11.2.3\else \numberline {11.2.3}Teorema\fi }{183}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~11.3.1\else \numberline {11.3.1}Teorema\fi }{183}{theorem.1}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~12.0.1\else \numberline {12.0.1}Definición\fi \thmtformatoptarg {Modelo estadístico}}{186}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.0.2\else \numberline {12.0.2}Definición\fi \thmtformatoptarg {V.A. Hipotéticamente observable}}{186}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.0.3\else \numberline {12.0.3}Definición\fi \thmtformatoptarg {Distribución conjunta}}{187}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.0.4\else \numberline {12.0.4}Definición\fi \thmtformatoptarg {Inferencia estadística}}{187}{definition.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.0.5\else \numberline {12.0.5}Definición\fi \thmtformatoptarg {Datos o muestra}}{187}{definition.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.0.6\else \numberline {12.0.6}Definición\fi \thmtformatoptarg {Parámetros}}{187}{definition.6}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.1.1\else \numberline {12.1.1}Definición\fi \thmtformatoptarg {Predicción}}{187}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.1.2\else \numberline {12.1.2}Definición\fi \thmtformatoptarg {Problemas de Decisión Estadística}}{187}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.1.3\else \numberline {12.1.3}Definición\fi \thmtformatoptarg {Diseños Experimentales}}{187}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.1.4\else \numberline {12.1.4}Definición\fi \thmtformatoptarg {Estadístico}}{187}{definition.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.2.1\else \numberline {12.2.1}Definición\fi \thmtformatoptarg {Distribucion previa}}{188}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.2.2\else \numberline {12.2.2}Definición\fi \thmtformatoptarg {Análisis de Sensibilidad}}{188}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.2.3\else \numberline {12.2.3}Definición\fi \thmtformatoptarg {Densidad impropia}}{188}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.2.4\else \numberline {12.2.4}Definición\fi \thmtformatoptarg {Verosimilitud}}{188}{definition.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.3.1\else \numberline {12.3.1}Definición\fi \thmtformatoptarg {Distribución Posterior}}{188}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.3.1\else \numberline {12.3.1}Teorema\fi \thmtformatoptarg {Distribucion posterior}}{188}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.4.1\else \numberline {12.4.1}Definición\fi \thmtformatoptarg {Familia conjugada}}{189}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.4.1\else \numberline {12.4.1}Teorema\fi \thmtformatoptarg {Conjugación en el modelo Bernoulli}}{189}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.4.2\else \numberline {12.4.2}Teorema\fi \thmtformatoptarg {Conjugación en el modelo Binomial}}{189}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.4.3\else \numberline {12.4.3}Teorema\fi \thmtformatoptarg {Conjugación en el modelo Binomial Negativa}}{189}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.4.4\else \numberline {12.4.4}Teorema\fi \thmtformatoptarg {Conjugación en el modelo Poisson}}{189}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.4.5\else \numberline {12.4.5}Teorema\fi \thmtformatoptarg {Conjugación en el modelo Exponencial}}{190}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.4.6\else \numberline {12.4.6}Teorema\fi \thmtformatoptarg {Conjugación en el modelo Normal con varianza conocida}}{190}{theorem.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.4.7\else \numberline {12.4.7}Teorema\fi \thmtformatoptarg {Conjugación en el modelo Normal con media conocida}}{190}{theorem.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.4.8\else \numberline {12.4.8}Teorema\fi \thmtformatoptarg {Posterior de la normal}}{190}{theorem.8}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~12.4.1\else \numberline {12.4.1}Corolario\fi }{191}{corollary.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.5.1\else \numberline {12.5.1}Definición\fi \thmtformatoptarg {Estimador}}{191}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.5.2\else \numberline {12.5.2}Definición\fi \thmtformatoptarg {Estimación}}{191}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.5.3\else \numberline {12.5.3}Definición\fi \thmtformatoptarg {Función de perdida}}{191}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.5.4\else \numberline {12.5.4}Definición\fi \thmtformatoptarg {Perdida esperada y estimador bayesiano}}{191}{definition.4}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~12.5.1\else \numberline {12.5.1}Proposición\fi \thmtformatoptarg {Perdida cuadrática}}{192}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~12.5.2\else \numberline {12.5.2}Proposición\fi \thmtformatoptarg {Perdida absoluta}}{192}{proposition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~12.5.3\else \numberline {12.5.3}Proposición\fi \thmtformatoptarg {Perdida 0-1}}{192}{proposition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.6.1\else \numberline {12.6.1}Definición\fi \thmtformatoptarg {Estimador consistente}}{193}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.6.1\else \numberline {12.6.1}Teorema\fi \thmtformatoptarg {Bayesiano consistente}}{193}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.6.2\else \numberline {12.6.2}Definición\fi \thmtformatoptarg {Estimador}}{193}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.7.1\else \numberline {12.7.1}Definición\fi \thmtformatoptarg {Estimador de Máxima Verosimilitud}}{193}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.7.2\else \numberline {12.7.2}Definición\fi \thmtformatoptarg {Generalización del MLE}}{193}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.7.1\else \numberline {12.7.1}Teorema\fi \thmtformatoptarg {Invarianza del MLE}}{193}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.7.3\else \numberline {12.7.3}Definición\fi \thmtformatoptarg {Consistencia de un estimador}}{193}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.7.2\else \numberline {12.7.2}Teorema\fi \thmtformatoptarg {Consistencia del MLE}}{194}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.7.3\else \numberline {12.7.3}Teorema\fi \thmtformatoptarg {Consistencia del estimador bayesiano}}{194}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.7.4\else \numberline {12.7.4}Definición\fi \thmtformatoptarg {Método de Newton}}{194}{definition.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.7.4\else \numberline {12.7.4}Teorema\fi \thmtformatoptarg {Convergencia local}}{194}{theorem.4}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~12.7.1\else \numberline {12.7.1}Corolario\fi \thmtformatoptarg {Aplicación a MLE}}{194}{corollary.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.7.5\else \numberline {12.7.5}Definición\fi \thmtformatoptarg {Método de Momentos}}{194}{definition.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.7.5\else \numberline {12.7.5}Teorema\fi \thmtformatoptarg {Consistencia del estimador de momentos}}{195}{theorem.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.8.1\else \numberline {12.8.1}Definición\fi \thmtformatoptarg {Estadístico suficiente}}{195}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.8.1\else \numberline {12.8.1}Teorema\fi \thmtformatoptarg {Teorema de Factorización de Neyman–Fisher}}{195}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.8.2\else \numberline {12.8.2}Teorema\fi \thmtformatoptarg {Caracterización bayesiana de suficiencia}}{195}{theorem.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.9.1\else \numberline {12.9.1}Definición\fi \thmtformatoptarg {Estimador insesgado}}{195}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.9.2\else \numberline {12.9.2}Definición\fi \thmtformatoptarg {Estadísticos conjuntamente suficientes}}{195}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.9.1\else \numberline {12.9.1}Teorema\fi \thmtformatoptarg {Teorema de Factorización de Neyman–Fisher para estadísticos conjuntamente suficientes}}{196}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.9.3\else \numberline {12.9.3}Definición\fi \thmtformatoptarg {Ordenamientos (Order Statistics)}}{196}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.9.2\else \numberline {12.9.2}Teorema\fi \thmtformatoptarg {Suficiencia de los ordenamientos}}{196}{theorem.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.9.4\else \numberline {12.9.4}Definición\fi \thmtformatoptarg {Estadístico suficiente mínimo (minimal)}}{196}{definition.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.9.3\else \numberline {12.9.3}Teorema\fi \thmtformatoptarg {MLE y estadísticos suficientes}}{196}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.9.4\else \numberline {12.9.4}Teorema\fi \thmtformatoptarg {Estimador bayesiano y estadísticos suficientes}}{196}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.9.5\else \numberline {12.9.5}Teorema\fi \thmtformatoptarg {Varianza muestral insesgada}}{196}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.9.6\else \numberline {12.9.6}Teorema\fi \thmtformatoptarg {Cota de Cramér–Rao}}{196}{theorem.6}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~12.9.1\else \numberline {12.9.1}Proposición\fi \thmtformatoptarg {Distribución de Poisson estimadores insesgados}}{197}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~12.9.2\else \numberline {12.9.2}Proposición\fi \thmtformatoptarg {Distribución normal comparación de estimadores de $\mitsigma ^2$ por MSE}}{197}{proposition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.9.5\else \numberline {12.9.5}Definición\fi \thmtformatoptarg {Inadmisibilidad en términos de MSE}}{197}{definition.5}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~12.9.3\else \numberline {12.9.3}Proposición\fi \thmtformatoptarg {Conexión con Rao–Blackwell}}{197}{proposition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.10.1\else \numberline {12.10.1}Definición\fi \thmtformatoptarg {Función de riesgo}}{197}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.10.2\else \numberline {12.10.2}Definición\fi \thmtformatoptarg {Estimador de Rao–Blackwell}}{198}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~12.10.1\else \numberline {12.10.1}Teorema\fi \thmtformatoptarg {Teorema de Rao–Blackwell}}{198}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~12.10.3\else \numberline {12.10.3}Definición\fi \thmtformatoptarg {Admisibilidad e inadmisibilidad}}{198}{definition.3}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~13.0.1\else \numberline {13.0.1}Definición\fi \thmtformatoptarg {Distribución $\mitchi ^2$}}{199}{definition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~13.0.1\else \numberline {13.0.1}Proposición\fi \thmtformatoptarg {Propiedades de la distribución $\mitchi ^2$}}{199}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~13.0.2\else \numberline {13.0.2}Proposición\fi \thmtformatoptarg {Distribución muestral de la varianza}}{199}{proposition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~13.0.3\else \numberline {13.0.3}Proposición\fi \thmtformatoptarg {Independencia en muestras normales}}{200}{proposition.3}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~13.0.4\else \numberline {13.0.4}Proposición\fi \thmtformatoptarg {Matrices ortogonales}}{200}{proposition.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~13.0.1\else \numberline {13.0.1}Teorema\fi \thmtformatoptarg {Transformación ortogonal de normales}}{200}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~13.1.1\else \numberline {13.1.1}Definición\fi \thmtformatoptarg {Distribución $t$ de Student}}{200}{definition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~13.1.1\else \numberline {13.1.1}Proposición\fi \thmtformatoptarg {Propiedades de la distribución $t$}}{200}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~13.1.2\else \numberline {13.1.2}Proposición\fi \thmtformatoptarg {Estadístico $t$ en muestras normales}}{200}{proposition.2}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~14.0.1\else \numberline {14.0.1}Definición\fi \thmtformatoptarg {Cuantil de orden \(p\)}}{202}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~14.0.2\else \numberline {14.0.2}Definición\fi \thmtformatoptarg {Intervalo de confianza al \(100(1-\mitalpha )\%\)}}{202}{definition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~14.0.1\else \numberline {14.0.1}Proposición\fi \thmtformatoptarg {Intervalo de confianza para la media normal (\(\mitsigma ^2\) desconocida)}}{202}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~14.0.2\else \numberline {14.0.2}Proposición\fi \thmtformatoptarg {Interpretación correcta del intervalo de confianza}}{203}{proposition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~14.0.3\else \numberline {14.0.3}Definición\fi \thmtformatoptarg {Intervalos de confianza de una cola}}{203}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~14.0.4\else \numberline {14.0.4}Definición\fi \thmtformatoptarg {Cantidad pivotal}}{203}{definition.4}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~14.0.3\else \numberline {14.0.3}Proposición\fi \thmtformatoptarg {Construcción de intervalos mediante cantidad pivotal}}{203}{proposition.3}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~14.0.4\else \numberline {14.0.4}Proposición\fi \thmtformatoptarg {Intervalo de confianza para la varianza normal}}{203}{proposition.4}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~14.0.5\else \numberline {14.0.5}Proposición\fi \thmtformatoptarg {Método Delta}}{204}{proposition.5}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~14.0.6\else \numberline {14.0.6}Proposición\fi \thmtformatoptarg {Transformación estabilizadora de la varianza}}{204}{proposition.6}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~15.0.1\else \numberline {15.0.1}Definición\fi \thmtformatoptarg {Hipótesis nula y alternativa}}{205}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~15.0.2\else \numberline {15.0.2}Definición\fi \thmtformatoptarg {Tipos de hipótesis}}{205}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~15.0.3\else \numberline {15.0.3}Definición\fi \thmtformatoptarg {Región crítica y estadístico de prueba}}{205}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~15.0.4\else \numberline {15.0.4}Definición\fi \thmtformatoptarg {Función de potencia}}{206}{definition.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~15.0.5\else \numberline {15.0.5}Definición\fi \thmtformatoptarg {Errores de Tipo I y Tipo II}}{206}{definition.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~15.0.6\else \numberline {15.0.6}Definición\fi \thmtformatoptarg {Prueba de nivel \(\mitalpha \) y tamaño de una prueba}}{206}{definition.6}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~15.0.1\else \numberline {15.0.1}Corolario\fi \thmtformatoptarg {Caracterización del nivel de significancia}}{206}{corollary.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~15.0.7\else \numberline {15.0.7}Definición\fi \thmtformatoptarg {Valor-\(p\)}}{206}{definition.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~15.0.1\else \numberline {15.0.1}Teorema\fi \thmtformatoptarg {Dualidad pruebas de hipótesis -- regiones de confianza (I)}}{206}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~15.0.2\else \numberline {15.0.2}Teorema\fi \thmtformatoptarg {Dualidad pruebas de hipótesis -- regiones de confianza (II)}}{207}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~15.0.3\else \numberline {15.0.3}Teorema\fi \thmtformatoptarg {Dualidad pruebas de hipótesis -- regiones de confianza (III)}}{207}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~15.0.8\else \numberline {15.0.8}Definición\fi \thmtformatoptarg {Estadístico LRT (Cociente de Verosimilitud)}}{207}{definition.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~15.0.4\else \numberline {15.0.4}Teorema\fi \thmtformatoptarg {Teorema de Wilks}}{207}{theorem.4}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~16.0.1\else \numberline {16.0.1}Definición\fi \thmtformatoptarg {Errores en hipótesis simples}}{208}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~16.0.1\else \numberline {16.0.1}Teorema\fi \thmtformatoptarg {Prueba óptima para combinación ponderada de errores}}{208}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~16.0.2\else \numberline {16.0.2}Definición\fi \thmtformatoptarg {Cociente de verosimilitud para hipótesis simples}}{208}{definition.2}%
+\contentsline {corollary}{\ifthmt@listswap Corolario~16.0.1\else \numberline {16.0.1}Corolario\fi \thmtformatoptarg {Prueba óptima mediante cociente de verosimilitud}}{209}{corollary.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~16.0.3\else \numberline {16.0.3}Definición\fi \thmtformatoptarg {Criterio de Neyman-Pearson}}{209}{definition.3}%
+\contentsline {lemma}{\ifthmt@listswap Lema~16.0.1\else \numberline {16.0.1}Lema\fi \thmtformatoptarg {Lema de Neyman-Pearson}}{209}{lemma.1}%
+\addvspace {10\p@ }
+\contentsline {proposition}{\ifthmt@listswap Proposición~17.0.1\else \numberline {17.0.1}Proposición\fi \thmtformatoptarg {Prueba \(t\) de Student para una media}}{210}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~17.0.2\else \numberline {17.0.2}Proposición\fi \thmtformatoptarg {Prueba \(t\) pareada}}{210}{proposition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~17.0.3\else \numberline {17.0.3}Proposición\fi \thmtformatoptarg {Prueba \(t\) para comparación de medias de dos poblaciones independientes}}{211}{proposition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~17.0.1\else \numberline {17.0.1}Definición\fi \thmtformatoptarg {Distribución \(F\)}}{211}{definition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~17.0.4\else \numberline {17.0.4}Proposición\fi \thmtformatoptarg {Propiedades de la distribución \(F\)}}{211}{proposition.4}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~17.0.5\else \numberline {17.0.5}Proposición\fi \thmtformatoptarg {Prueba \(F\) para comparación de varianzas (una cola)}}{211}{proposition.5}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~17.0.6\else \numberline {17.0.6}Proposición\fi \thmtformatoptarg {Prueba \(F\) de homocedasticidad (dos colas)}}{211}{proposition.6}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~18.0.1\else \numberline {18.0.1}Definición\fi \thmtformatoptarg {Datos categóricos y distribución multinomial}}{212}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~18.0.2\else \numberline {18.0.2}Definición\fi \thmtformatoptarg {Estadístico \(\mitchi ^2\) de Pearson}}{212}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~18.0.3\else \numberline {18.0.3}Definición\fi \thmtformatoptarg {Prueba \(\mitchi ^2\) con hipótesis parametrizadas}}{213}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~18.0.1\else \numberline {18.0.1}Teorema\fi \thmtformatoptarg {Distribución asintótica con hipótesis parametrizadas}}{213}{theorem.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~18.0.2\else \numberline {18.0.2}Teorema\fi \thmtformatoptarg {Prueba \(\mitchi ^2\) con MLE basado en datos individuales}}{213}{theorem.2}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~19.0.1\else \numberline {19.0.1}Definición\fi \thmtformatoptarg {Tabla de contingencia}}{214}{definition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~19.0.1\else \numberline {19.0.1}Proposición\fi \thmtformatoptarg {Prueba de independencia}}{214}{proposition.1}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~19.0.2\else \numberline {19.0.2}Proposición\fi \thmtformatoptarg {Prueba de homogeneidad}}{215}{proposition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~19.0.3\else \numberline {19.0.3}Proposición\fi \thmtformatoptarg {Comparación de proporciones en \(R\) grupos}}{215}{proposition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~19.0.2\else \numberline {19.0.2}Definición\fi \thmtformatoptarg {V de Cramer}}{215}{definition.2}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~19.0.4\else \numberline {19.0.4}Proposición\fi \thmtformatoptarg {Paradoja de Simpson}}{215}{proposition.4}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~20.0.1\else \numberline {20.0.1}Definición\fi \thmtformatoptarg {Función de distribución empírica}}{217}{definition.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~20.0.1\else \numberline {20.0.1}Lema\fi \thmtformatoptarg {Lema de Glivenko-Cantelli}}{217}{lemma.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~20.0.2\else \numberline {20.0.2}Definición\fi \thmtformatoptarg {Estadístico de Kolmogorov-Smirnov para una muestra}}{218}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~20.0.1\else \numberline {20.0.1}Teorema\fi \thmtformatoptarg {Teorema de Kolmogorov-Smirnov (1930)}}{218}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~20.0.3\else \numberline {20.0.3}Definición\fi \thmtformatoptarg {Estadístico de Kolmogorov-Smirnov para dos muestras}}{218}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~20.0.2\else \numberline {20.0.2}Teorema\fi \thmtformatoptarg {Distribución límite para dos muestras}}{218}{theorem.2}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~21.0.1\else \numberline {21.0.1}Definición\fi \thmtformatoptarg {Mediana poblacional}}{219}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~21.0.2\else \numberline {21.0.2}Definición\fi \thmtformatoptarg {Prueba de signo}}{219}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~21.0.3\else \numberline {21.0.3}Definición\fi \thmtformatoptarg {Estadístico de rangos de Wilcoxon-Mann-Whitney}}{220}{definition.3}%
+\contentsline {proposition}{\ifthmt@listswap Proposición~21.0.1\else \numberline {21.0.1}Proposición\fi \thmtformatoptarg {Distribución del estadístico \(S\) bajo \(H_0\)}}{220}{proposition.1}%
+\addvspace {10\p@ }
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.1\else \numberline {22.1.1}Definición\fi \thmtformatoptarg {Distribución Bernoulli}}{222}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.1\else \numberline {22.1.1}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Bernoulli}}{222}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.2\else \numberline {22.1.2}Definición\fi \thmtformatoptarg {Distribución Binomial}}{223}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.2\else \numberline {22.1.2}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Binomial}}{223}{theorem.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.3\else \numberline {22.1.3}Definición\fi \thmtformatoptarg {Distribución geométrica}}{224}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.3\else \numberline {22.1.3}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Geométrica}}{224}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.4\else \numberline {22.1.4}Definición\fi \thmtformatoptarg {Distribución Poisson}}{225}{definition.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.4\else \numberline {22.1.4}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Poisson}}{225}{theorem.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.5\else \numberline {22.1.5}Definición\fi \thmtformatoptarg {Distribución Hipergeométrica}}{226}{definition.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.5\else \numberline {22.1.5}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Hipergeométrica}}{226}{theorem.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.6\else \numberline {22.1.6}Definición\fi \thmtformatoptarg {Distribución Pascal}}{226}{definition.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.6\else \numberline {22.1.6}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Pascal}}{227}{theorem.6}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.7\else \numberline {22.1.7}Definición\fi \thmtformatoptarg {Distribución Uniforme Discreta}}{227}{definition.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.7\else \numberline {22.1.7}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Uniforme Discreta}}{227}{theorem.7}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.8\else \numberline {22.1.8}Definición\fi \thmtformatoptarg {Distribución Zeta}}{228}{definition.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.8\else \numberline {22.1.8}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Zeta}}{228}{theorem.8}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.9\else \numberline {22.1.9}Definición\fi \thmtformatoptarg {Distribución Zipf}}{229}{definition.9}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.9\else \numberline {22.1.9}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Zipf}}{229}{theorem.9}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.10\else \numberline {22.1.10}Definición\fi \thmtformatoptarg {Distribución Beta-Binomial}}{230}{definition.10}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.10\else \numberline {22.1.10}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Beta-Binomial}}{230}{theorem.10}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.11\else \numberline {22.1.11}Definición\fi \thmtformatoptarg {Distribución Hipergeométrica Negativa}}{231}{definition.11}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.11\else \numberline {22.1.11}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Hipergeométrica Negativa}}{231}{theorem.11}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.12\else \numberline {22.1.12}Definición\fi \thmtformatoptarg {Distribución Polya}}{231}{definition.12}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.12\else \numberline {22.1.12}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Polya}}{232}{theorem.12}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.13\else \numberline {22.1.13}Definición\fi \thmtformatoptarg {Distribución Logarítmica}}{232}{definition.13}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.13\else \numberline {22.1.13}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Logarítmica}}{232}{theorem.13}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.14\else \numberline {22.1.14}Definición\fi \thmtformatoptarg {Distribución Gamma–Poisson}}{232}{definition.14}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.14\else \numberline {22.1.14}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Gamma–Poisson}}{233}{theorem.14}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.15\else \numberline {22.1.15}Definición\fi \thmtformatoptarg {Distribución Beta–Pascal}}{233}{definition.15}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.15\else \numberline {22.1.15}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Beta–Pascal}}{233}{theorem.15}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.16\else \numberline {22.1.16}Definición\fi \thmtformatoptarg {Distribución Power Series}}{234}{definition.16}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.16\else \numberline {22.1.16}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Power Series}}{234}{theorem.16}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.17\else \numberline {22.1.17}Definición\fi \thmtformatoptarg {Distribución Weibull Discreta}}{234}{definition.17}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.17\else \numberline {22.1.17}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Weibull Discreta}}{235}{theorem.17}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.18\else \numberline {22.1.18}Definición\fi \thmtformatoptarg {Distribución Rectangular Discreta}}{235}{definition.18}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.18\else \numberline {22.1.18}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Rectangular Discreta}}{235}{theorem.18}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.1.19\else \numberline {22.1.19}Definición\fi \thmtformatoptarg {Distribución Benford}}{236}{definition.19}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.1.19\else \numberline {22.1.19}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Benford}}{236}{theorem.19}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.1\else \numberline {22.2.1}Definición\fi \thmtformatoptarg {Distribución Normal}}{237}{definition.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.1\else \numberline {22.2.1}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Normal}}{237}{theorem.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.2\else \numberline {22.2.2}Definición\fi \thmtformatoptarg {Distribución Exponencial}}{238}{definition.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.2\else \numberline {22.2.2}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Exponencial}}{238}{theorem.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.3\else \numberline {22.2.3}Definición\fi \thmtformatoptarg {Distribución Uniforme Continua}}{239}{definition.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.3\else \numberline {22.2.3}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Uniforme Continua}}{239}{theorem.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.4\else \numberline {22.2.4}Definición\fi \thmtformatoptarg {Distribución Gamma}}{241}{definition.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.4\else \numberline {22.2.4}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Gamma}}{241}{theorem.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.5\else \numberline {22.2.5}Definición\fi \thmtformatoptarg {Distribución Beta}}{242}{definition.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.5\else \numberline {22.2.5}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Beta/}}{242}{theorem.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.6\else \numberline {22.2.6}Definición\fi \thmtformatoptarg {Distribución Chi-cuadrado}}{242}{definition.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.6\else \numberline {22.2.6}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Chi-cuadrado}}{243}{theorem.6}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.7\else \numberline {22.2.7}Definición\fi \thmtformatoptarg {Distribución t de Student}}{243}{definition.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.7\else \numberline {22.2.7}Teorema\fi \thmtformatoptarg {Propiedades de la distribución t de Student}}{244}{theorem.7}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.8\else \numberline {22.2.8}Definición\fi \thmtformatoptarg {Distribución F de Fisher–Snedecor}}{244}{definition.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.8\else \numberline {22.2.8}Teorema\fi \thmtformatoptarg {Propiedades de la distribución F}}{244}{theorem.8}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.9\else \numberline {22.2.9}Definición\fi \thmtformatoptarg {Distribución Log-normal}}{245}{definition.9}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.9\else \numberline {22.2.9}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Log-normal}}{245}{theorem.9}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.10\else \numberline {22.2.10}Definición\fi \thmtformatoptarg {Distribución Weibull}}{246}{definition.10}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.10\else \numberline {22.2.10}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Weibull}}{246}{theorem.10}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.11\else \numberline {22.2.11}Definición\fi \thmtformatoptarg {Distribución Laplace Asimétrica}}{247}{definition.11}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.11\else \numberline {22.2.11}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Laplace Asimétrica}}{247}{theorem.11}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.12\else \numberline {22.2.12}Definición\fi \thmtformatoptarg {Distribución Logística Generalizada}}{248}{definition.12}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.12\else \numberline {22.2.12}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Logística Generalizada}}{248}{theorem.12}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.13\else \numberline {22.2.13}Definición\fi \thmtformatoptarg {Distribución Rayleigh}}{249}{definition.13}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.13\else \numberline {22.2.13}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Rayleigh}}{249}{theorem.13}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.14\else \numberline {22.2.14}Definición\fi \thmtformatoptarg {Distribución Gaussiana Inversa}}{250}{definition.14}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.14\else \numberline {22.2.14}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Gaussiana Inversa}}{250}{theorem.14}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.15\else \numberline {22.2.15}Definición\fi \thmtformatoptarg {Distribución Pareto}}{251}{definition.15}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.15\else \numberline {22.2.15}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Pareto}}{251}{theorem.15}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.16\else \numberline {22.2.16}Definición\fi \thmtformatoptarg {Distribución Cauchy}}{252}{definition.16}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.16\else \numberline {22.2.16}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Cauchy}}{252}{theorem.16}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.17\else \numberline {22.2.17}Definición\fi \thmtformatoptarg {Distribución Gompertz}}{252}{definition.17}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.17\else \numberline {22.2.17}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Gompertz}}{253}{theorem.17}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.18\else \numberline {22.2.18}Definición\fi \thmtformatoptarg {Distribución de Valor Extremo}}{253}{definition.18}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.18\else \numberline {22.2.18}Teorema\fi \thmtformatoptarg {Propiedades de la distribución de Valor Extremo}}{253}{theorem.18}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.19\else \numberline {22.2.19}Definición\fi \thmtformatoptarg {Distribución Gamma Generalizada}}{254}{definition.19}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.19\else \numberline {22.2.19}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Gamma Generalizada}}{254}{theorem.19}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.20\else \numberline {22.2.20}Definición\fi \thmtformatoptarg {Distribución Pareto Generalizada}}{254}{definition.20}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.20\else \numberline {22.2.20}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Pareto Generalizada}}{254}{theorem.20}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.21\else \numberline {22.2.21}Definición\fi \thmtformatoptarg {Distribución t No Central}}{255}{definition.21}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.21\else \numberline {22.2.21}Teorema\fi \thmtformatoptarg {Propiedades de la distribución t No Central}}{255}{theorem.21}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.22\else \numberline {22.2.22}Definición\fi \thmtformatoptarg {Distribución F No Central}}{256}{definition.22}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.22\else \numberline {22.2.22}Teorema\fi \thmtformatoptarg {Propiedades de la distribución F No Central}}{256}{theorem.22}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.23\else \numberline {22.2.23}Definición\fi \thmtformatoptarg {Distribución Chi-cuadrado No Central}}{256}{definition.23}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.23\else \numberline {22.2.23}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Chi-cuadrado No Central}}{256}{theorem.23}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.24\else \numberline {22.2.24}Definición\fi \thmtformatoptarg {Distribución Beta No Central}}{257}{definition.24}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.24\else \numberline {22.2.24}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Beta No Central}}{257}{theorem.24}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.25\else \numberline {22.2.25}Definición\fi \thmtformatoptarg {Distribución F Doble No Central}}{257}{definition.25}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.25\else \numberline {22.2.25}Teorema\fi \thmtformatoptarg {Propiedades de la distribución F Doble No Central}}{257}{theorem.25}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.26\else \numberline {22.2.26}Definición\fi \thmtformatoptarg {Distribución Log-gamma}}{257}{definition.26}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.26\else \numberline {22.2.26}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Log-gamma}}{258}{theorem.26}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.27\else \numberline {22.2.27}Definición\fi \thmtformatoptarg {Distribución Log-logística}}{258}{definition.27}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.27\else \numberline {22.2.27}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Log-logística}}{258}{theorem.27}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.28\else \numberline {22.2.28}Definición\fi \thmtformatoptarg {Distribución Hiperexponencial}}{259}{definition.28}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.28\else \numberline {22.2.28}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Hiperexponencial}}{259}{theorem.28}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.29\else \numberline {22.2.29}Definición\fi \thmtformatoptarg {Distribución Hipoexponencial}}{260}{definition.29}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.29\else \numberline {22.2.29}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Hipoexponencial}}{260}{theorem.29}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.30\else \numberline {22.2.30}Definición\fi \thmtformatoptarg {Distribución Makeham}}{260}{definition.30}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.30\else \numberline {22.2.30}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Makeham}}{261}{theorem.30}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.31\else \numberline {22.2.31}Definición\fi \thmtformatoptarg {Distribución Lomax}}{261}{definition.31}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.31\else \numberline {22.2.31}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Lomax}}{261}{theorem.31}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.32\else \numberline {22.2.32}Definición\fi \thmtformatoptarg {Distribución Muth}}{262}{definition.32}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.32\else \numberline {22.2.32}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Muth}}{262}{theorem.32}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.33\else \numberline {22.2.33}Definición\fi \thmtformatoptarg {Distribución Von Mises}}{263}{definition.33}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.33\else \numberline {22.2.33}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Von Mises}}{263}{theorem.33}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.34\else \numberline {22.2.34}Definición\fi \thmtformatoptarg {Distribución Arcsin}}{263}{definition.34}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.34\else \numberline {22.2.34}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Arcsin}}{263}{theorem.34}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.35\else \numberline {22.2.35}Definición\fi \thmtformatoptarg {Distribución Arctangent}}{264}{definition.35}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.35\else \numberline {22.2.35}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Arctangent}}{264}{theorem.35}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.36\else \numberline {22.2.36}Definición\fi \thmtformatoptarg {Distribución Power}}{265}{definition.36}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.36\else \numberline {22.2.36}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Power}}{265}{theorem.36}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.37\else \numberline {22.2.37}Definición\fi \thmtformatoptarg {Distribución Power estándar}}{266}{definition.37}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.37\else \numberline {22.2.37}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Power estándar}}{266}{theorem.37}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.38\else \numberline {22.2.38}Definición\fi \thmtformatoptarg {Distribución Normal Estándar}}{267}{definition.38}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.38\else \numberline {22.2.38}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Normal Estándar}}{267}{theorem.38}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.39\else \numberline {22.2.39}Definición\fi \thmtformatoptarg {Distribución Cauchy estándar}}{268}{definition.39}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.39\else \numberline {22.2.39}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Cauchy estándar}}{268}{theorem.39}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.40\else \numberline {22.2.40}Definición\fi \thmtformatoptarg {Distribución Triangular estándar}}{269}{definition.40}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.40\else \numberline {22.2.40}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Triangular estándar}}{269}{theorem.40}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.41\else \numberline {22.2.41}Definición\fi \thmtformatoptarg {Distribución Wald estándar}}{270}{definition.41}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.41\else \numberline {22.2.41}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Wald estándar}}{270}{theorem.41}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.42\else \numberline {22.2.42}Definición\fi \thmtformatoptarg {Distribución Minimax}}{270}{definition.42}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.42\else \numberline {22.2.42}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Minimax}}{271}{theorem.42}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.43\else \numberline {22.2.43}Definición\fi \thmtformatoptarg {Distribución IDB}}{271}{definition.43}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.43\else \numberline {22.2.43}Teorema\fi \thmtformatoptarg {Propiedades de la distribución IDB}}{271}{theorem.43}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.44\else \numberline {22.2.44}Definición\fi \thmtformatoptarg {Distribución Error}}{271}{definition.44}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.44\else \numberline {22.2.44}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Error}}{272}{theorem.44}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.45\else \numberline {22.2.45}Definición\fi \thmtformatoptarg {Distribución Exponential Power}}{272}{definition.45}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.45\else \numberline {22.2.45}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Exponential Power}}{272}{theorem.45}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.46\else \numberline {22.2.46}Definición\fi \thmtformatoptarg {Distribución Triangular}}{273}{definition.46}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.46\else \numberline {22.2.46}Teorema\fi \thmtformatoptarg {Propiedades de la distribución Triangular}}{273}{theorem.46}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.2.47\else \numberline {22.2.47}Definición\fi \thmtformatoptarg {Distribución TSP}}{274}{definition.47}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.2.47\else \numberline {22.2.47}Teorema\fi \thmtformatoptarg {Propiedades de la distribución TSP}}{274}{theorem.47}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.3.1\else \numberline {22.3.1}Definición\fi \thmtformatoptarg {Transformada de Laplace}}{275}{definition.1}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.3.2\else \numberline {22.3.2}Definición\fi \thmtformatoptarg {Transformada de Fourier}}{275}{definition.2}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.3.3\else \numberline {22.3.3}Definición\fi \thmtformatoptarg {Transformada de Mellin}}{275}{definition.3}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.3.4\else \numberline {22.3.4}Definición\fi \thmtformatoptarg {Transformada de Hilbert}}{275}{definition.4}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.3.5\else \numberline {22.3.5}Definición\fi \thmtformatoptarg {Transformada de Abel}}{276}{definition.5}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.3.6\else \numberline {22.3.6}Definición\fi \thmtformatoptarg {Transformada de Stieltjes}}{276}{definition.6}%
+\contentsline {definition}{\ifthmt@listswap Definición~22.3.7\else \numberline {22.3.7}Definición\fi \thmtformatoptarg {Transformada de Weierstrass (Gauss-Weierstrass)}}{276}{definition.7}%
+\contentsline {lemma}{\ifthmt@listswap Lema~22.3.1\else \numberline {22.3.1}Lema\fi \thmtformatoptarg {Linealidad}}{276}{lemma.1}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.3.1\else \numberline {22.3.1}Teorema\fi \thmtformatoptarg {Transformada de Laplace de la derivada}}{276}{theorem.1}%
+\contentsline {lemma}{\ifthmt@listswap Lema~22.3.2\else \numberline {22.3.2}Lema\fi \thmtformatoptarg {Transformada de Laplace de la integral}}{276}{lemma.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.3.2\else \numberline {22.3.2}Teorema\fi \thmtformatoptarg {Convolución de Laplace}}{277}{theorem.2}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.3.3\else \numberline {22.3.3}Teorema\fi \thmtformatoptarg {Valor inicial y final de Laplace}}{277}{theorem.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.3.4\else \numberline {22.3.4}Teorema\fi \thmtformatoptarg {Inversión de Laplace (fórmula de Bromwich)}}{277}{theorem.4}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.3.5\else \numberline {22.3.5}Teorema\fi \thmtformatoptarg {Transformada de Fourier de la derivada}}{277}{theorem.5}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.3.6\else \numberline {22.3.6}Teorema\fi \thmtformatoptarg {Convolución de Fourier}}{278}{theorem.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.3.7\else \numberline {22.3.7}Teorema\fi \thmtformatoptarg {Identidad de Parseval-Plancherel}}{278}{theorem.7}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.3.8\else \numberline {22.3.8}Teorema\fi \thmtformatoptarg {Inversión de Fourier}}{278}{theorem.8}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.3.9\else \numberline {22.3.9}Teorema\fi \thmtformatoptarg {Principio de incertidumbre de Heisenberg}}{278}{theorem.9}%
+\contentsline {lemma}{\ifthmt@listswap Lema~22.3.3\else \numberline {22.3.3}Lema\fi \thmtformatoptarg {Relación entre Mellin y Fourier}}{278}{lemma.3}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.3.10\else \numberline {22.3.10}Teorema\fi \thmtformatoptarg {Inversión de Mellin}}{279}{theorem.10}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.3.11\else \numberline {22.3.11}Teorema\fi \thmtformatoptarg {Acotación de la transformada de Hilbert en \(L^p\)}}{279}{theorem.11}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.3.12\else \numberline {22.3.12}Teorema\fi \thmtformatoptarg {Involución de la transformada de Hilbert}}{279}{theorem.12}%
+\contentsline {lemma}{\ifthmt@listswap Lema~22.3.4\else \numberline {22.3.4}Lema\fi \thmtformatoptarg {Relación de Hilbert con Fourier}}{279}{lemma.4}%
+\contentsline {lemma}{\ifthmt@listswap Lema~22.3.5\else \numberline {22.3.5}Lema\fi \thmtformatoptarg {Relación entre Laplace y Stieltjes}}{279}{lemma.5}%
+\contentsline {lemma}{\ifthmt@listswap Lema~22.3.6\else \numberline {22.3.6}Lema\fi \thmtformatoptarg {Relación entre Abel y Fourier}}{279}{lemma.6}%
+\contentsline {theorem}{\ifthmt@listswap Teorema~22.3.13\else \numberline {22.3.13}Teorema\fi \thmtformatoptarg {Transformada de Weierstrass como solución del calor}}{280}{theorem.13}%
+\contentsline {lemma}{\ifthmt@listswap Lema~22.3.7\else \numberline {22.3.7}Lema\fi \thmtformatoptarg {Relación entre Weierstrass y Fourier}}{280}{lemma.7}%
